@@ -2,6 +2,7 @@ import sys
 import csv
 import gzip
 import json
+from datetime import datetime
 
 FILE = sys.argv[1]
 BREAK = 0
@@ -72,7 +73,11 @@ def convert_line(line):
             res.append(line.get("_id"))
 
         elif key == "last_updated":
-            res.append(line.get("_last_updated", {}).get("$date", {}).get("$numberLong", ""))
+            ts = line.get("_last_updated", {}).get("$date", {}).get("$numberLong", "")
+            if ts:
+                ts = int(ts) / 1000
+                ts = datetime.fromtimestamp(ts).isoformat()
+            res.append(ts)
 
         elif key.endswith("_bound"):
             key1, key2 = key.split(" ")
