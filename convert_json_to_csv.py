@@ -2,7 +2,7 @@ import sys
 import csv
 import gzip
 import json
-from datetime import datetime
+from datetime import date, datetime
 
 FILE = sys.argv[1]
 BREAK = 0
@@ -24,6 +24,7 @@ HEADERS = [
     "ad_creation_time",
     "ad_delivery_start_time",
     "ad_delivery_stop_time",
+    "ad_delivery_duration_days",
     "estimated_audience_size_bounds",
     "impressions_bounds",
     "spend_bounds",
@@ -75,6 +76,16 @@ def convert_line(line):
                 ts = int(ts) / 1000
                 ts = datetime.fromtimestamp(ts).isoformat()
             res.append(ts)
+
+        elif key == "ad_delivery_duration_days":
+            t0 = line.get("ad_delivery_start_time", "")
+            t1 = line.get("ad_delivery_stop_time", "")
+            days = ""
+            if t0 and t1:
+                t0 = date(*[int(x) for x in t0.split("-")])
+                t1 = date(*[int(x) for x in t1.split("-")])
+                days = (t1 - t0).days + 1
+            res.append(days)
 
         elif key.endswith("_bounds"):
             k = "_".join(key.split("_")[:-1])
