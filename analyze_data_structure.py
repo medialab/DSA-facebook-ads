@@ -84,4 +84,4 @@ from pprint import pprint
 pprint(columns_tree)
 
 with open(FILE + ".datastructure" +  ("_first_%s_lines" % BREAK if BREAK else ""), "w") as f:
-    json.dump(columns_tree, f, indent=4)
+    json.dump(columns_tree, f, indent=4, sort_keys=True)
