@@ -24,12 +24,9 @@ HEADERS = [
     "ad_creation_time",
     "ad_delivery_start_time",
     "ad_delivery_stop_time",
-    "estimated_audience_size lower_bound",
-    "estimated_audience_size upper_bound",
-    "impressions lower_bound",
-    "impressions upper_bound",
-    "spend lower_bound",
-    "spend upper_bound",
+    "estimated_audience_size_bounds",
+    "impressions_bounds",
+    "spend_bounds",
     "currency",
     "demographic_distribution_percentage_for_female_13-17",
     "demographic_distribution_percentage_for_female_18-24",
@@ -79,9 +76,11 @@ def convert_line(line):
                 ts = datetime.fromtimestamp(ts).isoformat()
             res.append(ts)
 
-        elif key.endswith("_bound"):
-            key1, key2 = key.split(" ")
-            res.append(line.get(key1, {}).get(key2, ""))
+        elif key.endswith("_bounds"):
+            k = "_".join(key.split("_")[:-1])
+            low = line.get(k, {}).get("lower_bound", "")
+            upp = line.get(k, {}).get("upper_bound", "")
+            res.append("%s - %s" % (low, upp))
 
         elif key.startswith("demographic_distribution"):
             res.append(demog.get(key, ""))
