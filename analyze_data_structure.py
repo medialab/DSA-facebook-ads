@@ -97,5 +97,5 @@ with open(OUTF + ".datastructure.json", "w") as f:
 with open(OUTF + ".regions.csv", "w") as f:
     regions_csv = csv.writer(f)
     regions_csv.writerow(["region", "count"])
-    for r, c in regions:
+    for r, c in regions.items():
         regions_csv.writerow([r, c])
