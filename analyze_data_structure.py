@@ -38,7 +38,6 @@ def depile_json(dic, prefix=[]):
                 for el in v:
                     if ARRAY_SEPARATOR in el:
                         print("WARNING: %s in found string of an array:" % ARRAY_SEPARATOR, k, v, file=sys.stderr)
-                        sys.exit(1)
                 add_to_tree(full_key, "str_array", len(v))
             elif arr_typ == "dict":
                 if k == "demographic_distribution":

@@ -102,7 +102,7 @@ def convert_line(line):
         else:
             val = line.get(key, "")
             if type(val) == list:
-                val = ARRAY_SEPARATOR.join([v.strip() for v in val])
+                val = ARRAY_SEPARATOR.join([v.strip().replace(ARRAY_SEPARATOR, "#") for v in val])
             res.append(val)
 
     return res
