@@ -89,7 +89,7 @@ with gzip.open(FILE, mode='rt') as f:
 from pprint import pprint
 pprint(columns_tree)
 
-OUTF = FILE.replace(".bson.gz", "_first_%s_lines" % BREAK if BREAK else "")
+OUTF = FILE.replace(".json.gz", "_first_%s_lines" % BREAK if BREAK else "")
 
 with open(OUTF + ".datastructure.json", "w") as f:
     json.dump(columns_tree, f, indent=4, sort_keys=True)
