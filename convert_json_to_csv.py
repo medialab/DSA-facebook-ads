@@ -4,11 +4,15 @@ import gzip
 import json
 from datetime import date, datetime
 
+from tqdm import tqdm
+
 FILE = sys.argv[1]
 BREAK = 0
 if len(sys.argv) > 2:
     BREAK = int(sys.argv[2])
 ARRAY_SEPARATOR = "§"
+ARRAY_SEPARATOR_REPLACEMENT = "#"
+TOTAL_LINES = 433_819_698
 
 HEADERS = [
     "id",
@@ -102,7 +106,7 @@ def convert_line(line):
         else:
             val = line.get(key, "")
             if type(val) == list:
-                val = ARRAY_SEPARATOR.join([v.strip().replace(ARRAY_SEPARATOR, "#") for v in val])
+                val = ARRAY_SEPARATOR.join([v.strip().replace(ARRAY_SEPARATOR, ARRAY_SEPARATOR_REPLACEMENT) for v in val])
             res.append(val)
 
     return res
@@ -112,7 +116,7 @@ writer = csv.writer(sys.stdout)
 writer.writerow(HEADERS)
 with gzip.open(FILE, mode='rt') as f:
     count = 0
-    for line in f:
+    for line in tqdm(f, total=(BREAK or TOTAL_LINES)):
         jsonline = json.loads(line)
         res = convert_line(jsonline)
         writer.writerow(res)

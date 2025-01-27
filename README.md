@@ -22,6 +22,14 @@ export PATH="$(pwd)/mongodb-database-tools-amazon2-x86_64-100.10.0/bin:$PATH"
 zcat ads.bson.gz | bsondump -vvvvv --type=json | gzip > ads.json.gz
 ```
 
+### Install python dependencies:
+
+(Ideally in a dedicated Python environment)
+
+```bash
+pip install -r requirements.txt
+```
+
 
 ### Analyze keys structure of the json:
 

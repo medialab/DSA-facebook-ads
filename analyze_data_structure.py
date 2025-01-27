@@ -4,11 +4,14 @@ import gzip
 import json
 from collections import Counter
 
+from tqdm import tqdm
+
 FILE = sys.argv[1]
 BREAK = 0
 if len(sys.argv) > 2:
     BREAK = int(sys.argv[2])
 ARRAY_SEPARATOR = "§"
+TOTAL_LINES = 433_819_698
 
 columns_tree = {}
 regions = Counter()
@@ -76,7 +79,7 @@ def depile_json(dic, prefix=[]):
 
 with gzip.open(FILE, mode='rt') as f:
     count = 0
-    for line in f:
+    for line in tqdm(f, total=(BREAK or TOTAL_LINES)):
         jsonline = json.loads(line)
         depile_json(jsonline)
         count += 1
@@ -91,8 +94,8 @@ OUTF = FILE.replace(".bson.gz", "_first_%s_lines" % BREAK if BREAK else "")
 with open(OUTF + ".datastructure.json", "w") as f:
     json.dump(columns_tree, f, indent=4, sort_keys=True)
 
-regions_csv = csv.writer()
-regions_csv.writerow(["region", "count"])
 with open(OUTF + ".regions.csv", "w") as f:
+    regions_csv = csv.writer(f)
+    regions_csv.writerow(["region", "count"])
     for r, c in regions:
         regions_csv.writerow([r, c])
