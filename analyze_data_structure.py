@@ -2,9 +2,9 @@ import sys
 import csv
 import gzip
 import json
-from collections import Counter
+from collections import defaultdict,Counter
 
-import networkx as nx
+#import networkx as nx
 from tqdm import tqdm
 
 FILE = sys.argv[1]
@@ -16,8 +16,9 @@ TOTAL_LINES = 433_819_698
 
 columns_tree = {}
 regions = Counter()
-regions_network = nx.Graph()
-NETWORK_LINKS__WEIGHT_THRESHOLD = 100
+#regions_network = nx.Graph()
+#regions_network = defaultdict(Counter)
+#NETWORK_LINKS_WEIGHT_THRESHOLD = 100
 
 
 def add_to_tree(key, typ, arr_len=None):
@@ -47,9 +48,9 @@ def depile_json(dic, prefix=[]):
         elif isinstance(v, list):
             arr_typ = type(v[0]).__name__
             if arr_typ == "str":
-                for el in v:
-                    if ARRAY_SEPARATOR in el:
-                        print("WARNING: %s in found string of an array:" % ARRAY_SEPARATOR, k, v, file=sys.stderr)
+                #for el in v:
+                #    if ARRAY_SEPARATOR in el:
+                #        print("WARNING: %s in found string of an array:" % ARRAY_SEPARATOR, k, el, file=sys.stderr)
                 add_to_tree(full_key, "str_array", len(v))
             elif arr_typ == "dict":
                 if k == "demographic_distribution":
@@ -63,7 +64,7 @@ def depile_json(dic, prefix=[]):
                             add_to_tree(prefix + [k + "_percentage_for_" + d["gender"] + "_"  + d["age"]], type(d["percentage"]).__name__)
                 elif k == "delivery_by_region":
                     add_to_tree(full_key, "dict_array", len(v))
-                    done_regions = []
+                    #done_regions = []
                     for d in v:
                         if d.get("percentage") == "1" and ("region" not in d):
                             reg = ""
@@ -73,14 +74,16 @@ def depile_json(dic, prefix=[]):
                         else:
                             reg = d["region"]
                         regions[reg] += 1
-                        if not regions_network.has_node(reg):
-                            regions_network.add_node(reg)
-                        for r2 in done_regions:
-                            if not regions_network.has_edge(reg, r2):
-                                regions_network.add_edge(reg, r2, weight=1)
-                            else:
-                                regions_network[reg][r2]["weight"] += 1
-                        done_regions.append(reg)
+                        #if not regions_network.has_node(reg):
+                        #    regions_network.add_node(reg)
+                        #for r2 in done_regions:
+                        #    sortednames = sorted([reg, r2])
+                        #    if not regions_network.has_edge(reg, r2):
+                        #        regions_network.add_edge(reg, r2, weight=1)
+                        #    else:
+                        #        regions_network[reg][r2]["weight"] += 1
+                        #    regions_network[sortednames[0]][sortednames[1]] += 1
+                        #done_regions.append(reg)
                 else:
                     for d in v:
                         depile_json(d, full_key + ["FOR"])
@@ -113,5 +116,17 @@ with open(OUTF + ".regions.csv", "w") as f:
     for r, c in regions.items():
         regions_csv.writerow([r, c])
 
-filtered_network = nx.subgraph_view(regions_network, filter_edge=lambda x, y: regions_network[x][y]["weight"] > NETWORK_LINKS__WEIGHT_THRESHOLD)
-nx.write_gexf(filtered_network, OUTF + ".regions_network.gexf")
+#filtered_network = nx.subgraph_view(regions_network, filter_edge=lambda x, y: regions_network[x][y]["weight"] > NETWORK_LINKS_WEIGHT_THRESHOLD)
+#nx.write_gexf(filtered_network, OUTF + ".regions_network_filtered_%s.gexf" % NETWORK_LINKS_WEIGHT_THRESHOLD)
+#nx.write_gexf(regions_network, OUTF + ".regions_network_full.gexf.gz")
+#with open(OUTF + ".regions_links_full.csv", "w") as full:
+#    with open(OUTF + ".regions_links_filtered_%s.csv" % NETWORK_LINKS_WEIGHT_THRESHOLD, "w") as filtered:
+#        fullwriter = csv.writer(full)
+#        filtwriter = csv.writer(filtered)
+#        fullwriter.writerow(["source", "target", "weight"])
+#        filtwriter.writerow(["source", "target", "weight"])
+#        for r1, linked in regions_network.items():
+#            for r2, w in linked.items():
+#                fullwriter.writerow([r1, r2, w])
+#                if w > NETWORK_LINKS_WEIGHT_THRESHOLD:
+#                    filtwriter.writerow([r1, r2, w])
