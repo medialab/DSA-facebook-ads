@@ -47,7 +47,6 @@ Returns 3 files (possibly named `ads_first_N_lines` when relevant):
 
 - [`ads.json.gz.datastructure.json`](ads.json.gz.datastructure.json): a json of all useful fields wih counts and natures
 - [`ads.json.gz.regions.csv`](ads.json.gz.regions.csv): a csv with all delivery regions with counts
-- [`ads.json.gz.regions_network.gexf`](ads.json.gz.regions_network.gexf): a GEXF graph network file with all coocurrences of regions
 
 
 ### Convert json to csv:
