@@ -86,9 +86,6 @@ with gzip.open(FILE, mode='rt') as f:
         if count == BREAK:
             break
 
-from pprint import pprint
-pprint(columns_tree)
-
 OUTF = FILE.replace(".json.gz", "_first_%s_lines" % BREAK if BREAK else "")
 
 with open(OUTF + ".datastructure.json", "w") as f:
