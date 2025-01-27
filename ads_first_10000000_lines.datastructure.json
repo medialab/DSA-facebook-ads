@@ -1,189 +1,197 @@
 {
     "_id": {
-        "count": 1000000,
+        "count": 10000000,
         "type": "str"
     },
     "_last_updated/$date/$numberLong": {
-        "count": 984124,
+        "count": 9559705,
         "type": "str"
     },
     "ad_creation_time": {
-        "count": 1000000,
+        "count": 10000000,
         "type": "str"
     },
     "ad_creative_bodies": {
-        "count": 979953,
-        "max_length": 31,
+        "count": 9859814,
+        "max_length": 54,
         "type": "str_array"
     },
     "ad_creative_link_captions": {
-        "count": 986805,
-        "max_length": 10,
+        "count": 8590487,
+        "max_length": 50,
         "type": "str_array"
     },
     "ad_creative_link_descriptions": {
-        "count": 849413,
+        "count": 7180290,
         "max_length": 31,
         "type": "str_array"
     },
     "ad_creative_link_titles": {
-        "count": 981249,
-        "max_length": 31,
+        "count": 8625056,
+        "max_length": 54,
         "type": "str_array"
     },
     "ad_delivery_start_time": {
-        "count": 999995,
+        "count": 9996109,
         "type": "str"
     },
     "ad_delivery_stop_time": {
-        "count": 999995,
+        "count": 9996092,
         "type": "str"
     },
     "bylines": {
-        "count": 994994,
+        "count": 9383112,
         "type": "str"
     },
     "currency": {
-        "count": 1000000,
+        "count": 10000000,
         "type": "str"
     },
     "delivery_by_region": {
-        "count": 708649,
-        "max_length": 1292,
+        "count": 7698998,
+        "max_length": 3246,
         "type": "dict_array"
     },
     "demographic_distribution_percentage": {
-        "count": 1,
+        "count": 125,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_All (Automated App Ads)_All (Automated App Ads)": {
+        "count": 3385,
         "type": "str"
     },
     "demographic_distribution_percentage_for_female_13-17": {
-        "count": 10581,
+        "count": 157657,
         "type": "str"
     },
     "demographic_distribution_percentage_for_female_18-24": {
-        "count": 557326,
+        "count": 5669977,
         "type": "str"
     },
     "demographic_distribution_percentage_for_female_25-34": {
-        "count": 614161,
+        "count": 6630060,
         "type": "str"
     },
     "demographic_distribution_percentage_for_female_35-44": {
-        "count": 658231,
+        "count": 6971960,
         "type": "str"
     },
     "demographic_distribution_percentage_for_female_45-54": {
-        "count": 662611,
+        "count": 7016675,
         "type": "str"
     },
     "demographic_distribution_percentage_for_female_55-64": {
-        "count": 661610,
+        "count": 6951960,
         "type": "str"
     },
     "demographic_distribution_percentage_for_female_65+": {
-        "count": 660610,
+        "count": 6660053,
         "type": "str"
     },
     "demographic_distribution_percentage_for_male_13-17": {
-        "count": 10372,
+        "count": 149747,
         "type": "str"
     },
     "demographic_distribution_percentage_for_male_18-24": {
-        "count": 567121,
+        "count": 5532702,
         "type": "str"
     },
     "demographic_distribution_percentage_for_male_25-34": {
-        "count": 616227,
+        "count": 6412190,
         "type": "str"
     },
     "demographic_distribution_percentage_for_male_35-44": {
-        "count": 654533,
+        "count": 6729593,
         "type": "str"
     },
     "demographic_distribution_percentage_for_male_45-54": {
-        "count": 660645,
+        "count": 6770538,
         "type": "str"
     },
     "demographic_distribution_percentage_for_male_55-64": {
-        "count": 658874,
+        "count": 6717362,
         "type": "str"
     },
     "demographic_distribution_percentage_for_male_65+": {
-        "count": 657182,
+        "count": 6435095,
         "type": "str"
     },
     "demographic_distribution_percentage_for_unknown_13-17": {
-        "count": 14788,
+        "count": 136508,
         "type": "str"
     },
     "demographic_distribution_percentage_for_unknown_18-24": {
-        "count": 302634,
+        "count": 3073963,
         "type": "str"
     },
     "demographic_distribution_percentage_for_unknown_25-34": {
-        "count": 420718,
+        "count": 4510954,
         "type": "str"
     },
     "demographic_distribution_percentage_for_unknown_35-44": {
-        "count": 461017,
+        "count": 4861153,
         "type": "str"
     },
     "demographic_distribution_percentage_for_unknown_45-54": {
-        "count": 464323,
+        "count": 4809549,
         "type": "str"
     },
     "demographic_distribution_percentage_for_unknown_55-64": {
-        "count": 475213,
+        "count": 4816683,
         "type": "str"
     },
     "demographic_distribution_percentage_for_unknown_65+": {
-        "count": 483235,
+        "count": 4730505,
         "type": "str"
     },
     "demographic_distribution_percentage_for_unknown_Unknown": {
-        "count": 1426,
+        "count": 18369,
         "type": "str"
     },
     "estimated_audience_size/lower_bound": {
-        "count": 630552,
+        "count": 4591306,
         "type": "str"
     },
     "estimated_audience_size/upper_bound": {
-        "count": 329933,
+        "count": 2645617,
         "type": "str"
     },
     "impressions/lower_bound": {
-        "count": 1000000,
+        "count": 9999998,
         "type": "str"
     },
     "impressions/upper_bound": {
-        "count": 993643,
+        "count": 9971937,
         "type": "str"
     },
     "languages": {
-        "count": 946237,
-        "max_length": 2,
+        "count": 8253309,
+        "max_length": 22,
         "type": "str_array"
     },
+    "lost": {
+        "count": 25,
+        "type": "bool"
+    },
     "page_id": {
-        "count": 1000000,
+        "count": 10000000,
         "type": "str"
     },
     "page_name": {
-        "count": 1000000,
+        "count": 9999869,
         "type": "str"
     },
     "publisher_platforms": {
-        "count": 999927,
+        "count": 9979837,
         "max_length": 4,
         "type": "str_array"
     },
     "spend/lower_bound": {
-        "count": 1000000,
+        "count": 9999998,
         "type": "str"
     },
     "spend/upper_bound": {
-        "count": 999990,
+        "count": 9999917,
         "type": "str"
     }
 }
