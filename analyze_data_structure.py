@@ -4,6 +4,7 @@ import gzip
 import json
 from collections import Counter
 
+import networkx as nx
 from tqdm import tqdm
 
 FILE = sys.argv[1]
@@ -15,6 +16,8 @@ TOTAL_LINES = 433_819_698
 
 columns_tree = {}
 regions = Counter()
+regions_network = nx.Graph()
+
 
 def add_to_tree(key, typ, arr_len=None):
     keystr = "/".join(key)
@@ -39,7 +42,7 @@ def depile_json(dic, prefix=[]):
         if isinstance(v, str):
             add_to_tree(full_key, "str")
         elif isinstance(v, bool):
-            add_to_tree(v, "bool")
+            add_to_tree(full_key, "bool")
         elif isinstance(v, list):
             arr_typ = type(v[0]).__name__
             if arr_typ == "str":
@@ -59,14 +62,24 @@ def depile_json(dic, prefix=[]):
                             add_to_tree(prefix + [k + "_percentage_for_" + d["gender"] + "_"  + d["age"]], type(d["percentage"]).__name__)
                 elif k == "delivery_by_region":
                     add_to_tree(full_key, "dict_array", len(v))
+                    done_regions = []
                     for d in v:
                         if d.get("percentage") == "1" and ("region" not in d):
-                            regions[""] += 1
+                            reg = ""
                         elif "region" not in d or "percentage" not in d:
                             print("WARNING: missing fields in demographic_distribution element:", dic, file=sys.stderr)
                             sys.exit(1)
                         else:
-                            regions[d["region"]] += 1
+                            reg = d["region"]
+                        regions[reg] += 1
+                        if not regions_network.has_node(reg):
+                            regions_network.add_node(reg)
+                        for r2 in done_regions:
+                            if not regions_network.has_edge(reg, r2):
+                                regions_network.add_edge(reg, r2, weight=1)
+                            else:
+                                regions_network[reg][r2]["weight"] += 1
+                        done_regions.append(reg)
                 else:
                     for d in v:
                         depile_json(d, full_key + ["FOR"])
@@ -98,3 +111,5 @@ with open(OUTF + ".regions.csv", "w") as f:
     regions_csv.writerow(["region", "count"])
     for r, c in regions.items():
         regions_csv.writerow([r, c])
+
+nx.write_gexf(regions_network, OUTF + ".regions_network.gexf")
