@@ -56,6 +56,7 @@ HEADERS = [
     "demographic_distribution_percentage_for_unknown_55-64",
     "demographic_distribution_percentage_for_unknown_65+",
     "demographic_distribution_percentage_for_unknown_Unknown",
+    "demographic_distribution_percentage_for_All (Automated App Ads)_All (Automated App Ads)",
     "demographic_distribution_percentage",
     "delivery_by_region",
     "last_updated"
