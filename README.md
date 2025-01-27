@@ -1,13 +1,13 @@
 # DSA Ads data
 
-## data source and documentation:
+## Data source and documentation:
 
 https://github.com/Lejo1/facebook_ad_library
 
 
-## data conversion and preparation:
+## Data conversion and preparation:
 
- - install bsondump
+### Install bsondump:
 
 ```bash
 wget https://fastdl.mongodb.org/tools/db/mongodb-database-tools-amazon2-x86_64-100.10.0.tgz
@@ -16,14 +16,14 @@ export PATH="$(pwd)/mongodb-database-tools-amazon2-x86_64-100.10.0/bin:$PATH"
 ```
 
 
-- convert bson.gz files to json
+### Convert bson.gz files to json:
 
 ```bash
 zcat ads.bson.gz | bsondump -vvvvv --type=json | gzip > ads.json.gz
 ```
 
 
-- analyze keys structure of the json
+### Analyze keys structure of the json:
 
 ```bash
 python analyze_data_structure.py ads.json.gz
@@ -37,11 +37,11 @@ python analyze_data_structure.py ads.json.gz 1000000
 
 Returns 2 files (possibly named `ads_first_N_lines` when relevant):
 
- + [`ads.json.gz.datastructure.json`](ads.json.gz.datastructure.json): a json of all useful fields wih counts and natures
- + [`ads.json.gz.regions.csv`](ads.json.gz.regions.csv): a csv with all delivery regions with counts
+- [`ads.json.gz.datastructure.json`](ads.json.gz.datastructure.json): a json of all useful fields wih counts and natures
+- [`ads.json.gz.regions.csv`](ads.json.gz.regions.csv): a csv with all delivery regions with counts
 
 
-- convert json to csv
+### Convert json to csv:
 
 ```bash
 python convert_json_to_csv.py ads.json.gz | gzip > ads.csv.gz
