@@ -17,6 +17,7 @@ TOTAL_LINES = 433_819_698
 columns_tree = {}
 regions = Counter()
 regions_network = nx.Graph()
+NETWORK_LINKS__WEIGHT_THRESHOLD = 100
 
 
 def add_to_tree(key, typ, arr_len=None):
@@ -112,4 +113,5 @@ with open(OUTF + ".regions.csv", "w") as f:
     for r, c in regions.items():
         regions_csv.writerow([r, c])
 
-nx.write_gexf(regions_network, OUTF + ".regions_network.gexf")
+filtered_network = nx.subgraph_view(regions_network, filter_edge=lambda x, y: regions_network[x][y]["weight"] > NETWORK_LINKS__WEIGHT_THRESHOLD)
+nx.write_gexf(filtered_network, OUTF + ".regions_network.gexf")
