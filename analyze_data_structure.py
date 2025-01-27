@@ -1,6 +1,8 @@
 import sys
+import csv
 import gzip
 import json
+from collections import Counter
 
 FILE = sys.argv[1]
 BREAK = 0
@@ -9,6 +11,7 @@ if len(sys.argv) > 2:
 ARRAY_SEPARATOR = "§"
 
 columns_tree = {}
+regions = Counter()
 
 def add_to_tree(key, typ, arr_len=None):
     keystr = "/".join(key)
@@ -50,14 +53,15 @@ def depile_json(dic, prefix=[]):
                         else:
                             add_to_tree(prefix + [k + "_percentage_for_" + d["gender"] + "_"  + d["age"]], type(d["percentage"]).__name__)
                 elif k == "delivery_by_region":
+                    add_to_tree(full_key, "dict_array", len(v))
                     for d in v:
                         if d.get("percentage") == "1" and ("region" not in d):
-                            add_to_tree(prefix + [k + "_percentage"], type(d["percentage"]).__name__)
+                            regions[""] += 1
                         elif "region" not in d or "percentage" not in d:
                             print("WARNING: missing fields in demographic_distribution element:", dic, file=sys.stderr)
                             sys.exit(1)
                         else:
-                            add_to_tree(prefix + [k + "_percentage_for_" + d["region"]], type(d["percentage"]).__name__)
+                            regions[d["region"]] += 1
                 else:
                     for d in v:
                         depile_json(d, full_key + ["FOR"])
@@ -67,7 +71,7 @@ def depile_json(dic, prefix=[]):
         elif isinstance(v, dict):
             depile_json(v, full_key)
         else:
-            print("WARNING: TYPE NOT HANDLED:", k, type(v).__name__, v, file=sys.stderr)
+            print("WARNING: TYPE NOT HANDLED:", k, type(v).__name__, v, dic, file=sys.stderr)
             sys.exit(1)
 
 with gzip.open(FILE, mode='rt') as f:
@@ -84,3 +88,9 @@ pprint(columns_tree)
 
 with open(FILE + ".datastructure" +  ("_first_%s_lines" % BREAK if BREAK else ""), "w") as f:
     json.dump(columns_tree, f, indent=4, sort_keys=True)
+
+regions_csv = csv.writer()
+regions_csv.writerow(["region", "count"])
+with open(FILE + ".regions" +  ("_first_%s_lines" % BREAK if BREAK else ""), "w") as f:
+    for r, c in regions:
+        regions_csv.writerow([r, c])
