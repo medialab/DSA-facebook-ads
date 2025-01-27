@@ -38,6 +38,8 @@ def depile_json(dic, prefix=[]):
         full_key = prefix + [k]
         if isinstance(v, str):
             add_to_tree(full_key, "str")
+        elif isinstance(v, bool):
+            add_to_tree(v, "bool")
         elif isinstance(v, list):
             arr_typ = type(v[0]).__name__
             if arr_typ == "str":

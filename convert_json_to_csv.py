@@ -31,6 +31,7 @@ HEADERS = [
     "ad_delivery_duration_days",
     "estimated_audience_size_bounds",
     "impressions_bounds",
+    "lost",
     "spend_bounds",
     "currency",
     "demographic_distribution_percentage_for_female_13-17",
