@@ -86,11 +86,13 @@ with gzip.open(FILE, mode='rt') as f:
 from pprint import pprint
 pprint(columns_tree)
 
-with open(FILE + ".datastructure" +  ("_first_%s_lines" % BREAK if BREAK else ""), "w") as f:
+OUTF = FILE.replace(".bson.gz", "_first_%s_lines" % BREAK if BREAK else "")
+
+with open(OUTF + ".datastructure.json", "w") as f:
     json.dump(columns_tree, f, indent=4, sort_keys=True)
 
 regions_csv = csv.writer()
 regions_csv.writerow(["region", "count"])
-with open(FILE + ".regions" +  ("_first_%s_lines" % BREAK if BREAK else ""), "w") as f:
+with open(OUTF + ".regions.csv", "w") as f:
     for r, c in regions:
         regions_csv.writerow([r, c])
