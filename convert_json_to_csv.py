@@ -31,9 +31,11 @@ HEADERS = [
     "ad_delivery_duration_days",
     "estimated_audience_size_bounds",
     "impressions_bounds",
+    "eu_total_reach",
     "lost",
     "spend_bounds",
     "currency",
+    "beneficiary_payers",
     "demographic_distribution_percentage_for_female_13-17",
     "demographic_distribution_percentage_for_female_18-24",
     "demographic_distribution_percentage_for_female_25-34",
@@ -41,6 +43,7 @@ HEADERS = [
     "demographic_distribution_percentage_for_female_45-54",
     "demographic_distribution_percentage_for_female_55-64",
     "demographic_distribution_percentage_for_female_65+",
+    "demographic_distribution_percentage_for_female_Unknown",
     "demographic_distribution_percentage_for_male_13-17",
     "demographic_distribution_percentage_for_male_18-24",
     "demographic_distribution_percentage_for_male_25-34",
@@ -48,6 +51,7 @@ HEADERS = [
     "demographic_distribution_percentage_for_male_45-54",
     "demographic_distribution_percentage_for_male_55-64",
     "demographic_distribution_percentage_for_male_65+",
+    "demographic_distribution_percentage_for_male_Unknown",
     "demographic_distribution_percentage_for_unknown_13-17",
     "demographic_distribution_percentage_for_unknown_18-24",
     "demographic_distribution_percentage_for_unknown_25-34",
@@ -56,8 +60,18 @@ HEADERS = [
     "demographic_distribution_percentage_for_unknown_55-64",
     "demographic_distribution_percentage_for_unknown_65+",
     "demographic_distribution_percentage_for_unknown_Unknown",
+    "demographic_distribution_percentage_for_All (Automated App Ads)_13-17",
+    "demographic_distribution_percentage_for_All (Automated App Ads)_18-24",
+    "demographic_distribution_percentage_for_All (Automated App Ads)_25-34",
+    "demographic_distribution_percentage_for_All (Automated App Ads)_45-54",
+    "demographic_distribution_percentage_for_All (Automated App Ads)_55-64",
+    "demographic_distribution_percentage_for_All (Automated App Ads)_65+",
     "demographic_distribution_percentage_for_All (Automated App Ads)_All (Automated App Ads)",
     "demographic_distribution_percentage",
+    "age_country_gender_reach_breakdown",
+    "target_ages",
+    "target_gender",
+    "target_locations",
     "delivery_by_region",
     "last_updated"
 ]
@@ -75,6 +89,9 @@ def convert_line(line):
     for key in HEADERS:
         if key == "id":
             res.append(line.get("_id"))
+
+        elif key == "eu_total_reach":
+            res.append(line.get("eu_total_reach", {}).get("$numberInt", ""))
 
         elif key == "last_updated":
             ts = line.get("_last_updated", {}).get("$date", {}).get("$numberLong", "")
@@ -102,8 +119,8 @@ def convert_line(line):
         elif key.startswith("demographic_distribution"):
             res.append(demog.get(key, ""))
 
-        elif key == "delivery_by_region":
-            res.append(json.dumps(line.get("delivery_by_region")))
+        elif key in ["delivery_by_region", "age_country_gender_reach_breakdown", "beneficiary_payers", "target_locations"]:
+            res.append(json.dumps(line.get(key)))
 
         else:
             val = line.get(key, "")
