@@ -1,0 +1,294 @@
+{
+    "_id": {
+        "count": 433819698,
+        "type": "str"
+    },
+    "_last_updated/$date/$numberLong": {
+        "count": 232729980,
+        "type": "str"
+    },
+    "ad_creation_time": {
+        "count": 433819698,
+        "type": "str"
+    },
+    "ad_creative_bodies": {
+        "count": 395004662,
+        "max_length": 210,
+        "type": "str_array"
+    },
+    "ad_creative_link_captions": {
+        "count": 382630904,
+        "max_length": 66,
+        "type": "str_array"
+    },
+    "ad_creative_link_descriptions": {
+        "count": 178466247,
+        "max_length": 190,
+        "type": "str_array"
+    },
+    "ad_creative_link_titles": {
+        "count": 316113539,
+        "max_length": 190,
+        "type": "str_array"
+    },
+    "ad_delivery_start_time": {
+        "count": 433794341,
+        "type": "str"
+    },
+    "ad_delivery_stop_time": {
+        "count": 409632589,
+        "type": "str"
+    },
+    "age_country_gender_reach_breakdown/FOR/age_gender_breakdowns/FOR/age_range": {
+        "count": 4929897111,
+        "type": "str"
+    },
+    "age_country_gender_reach_breakdown/FOR/age_gender_breakdowns/FOR/female/$numberInt": {
+        "count": 3647691375,
+        "type": "str"
+    },
+    "age_country_gender_reach_breakdown/FOR/age_gender_breakdowns/FOR/male/$numberInt": {
+        "count": 3566139904,
+        "type": "str"
+    },
+    "age_country_gender_reach_breakdown/FOR/age_gender_breakdowns/FOR/unknown/$numberInt": {
+        "count": 1033062605,
+        "type": "str"
+    },
+    "age_country_gender_reach_breakdown/FOR/country": {
+        "count": 1440729222,
+        "type": "str"
+    },
+    "beneficiary_payers/FOR/beneficiary": {
+        "count": 373890966,
+        "type": "str"
+    },
+    "beneficiary_payers/FOR/current": {
+        "count": 373902538,
+        "type": "bool"
+    },
+    "beneficiary_payers/FOR/payer": {
+        "count": 373851383,
+        "type": "str"
+    },
+    "bylines": {
+        "count": 41648522,
+        "type": "str"
+    },
+    "currency": {
+        "count": 47685715,
+        "type": "str"
+    },
+    "delivery_by_region": {
+        "count": 41222337,
+        "max_length": 3246,
+        "type": "dict_array"
+    },
+    "demographic_distribution_percentage": {
+        "count": 209,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_All (Automated App Ads)_13-17": {
+        "count": 8,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_All (Automated App Ads)_18-24": {
+        "count": 12,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_All (Automated App Ads)_25-34": {
+        "count": 18,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_All (Automated App Ads)_35-44": {
+        "count": 12,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_All (Automated App Ads)_45-54": {
+        "count": 3,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_All (Automated App Ads)_55-64": {
+        "count": 5,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_All (Automated App Ads)_65+": {
+        "count": 1,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_All (Automated App Ads)_All (Automated App Ads)": {
+        "count": 11879,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_female_13-17": {
+        "count": 2651585,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_female_18-24": {
+        "count": 33365637,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_female_25-34": {
+        "count": 37951504,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_female_35-44": {
+        "count": 38774879,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_female_45-54": {
+        "count": 38370984,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_female_55-64": {
+        "count": 36781575,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_female_65+": {
+        "count": 33614248,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_female_Unknown": {
+        "count": 1304,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_male_13-17": {
+        "count": 2693581,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_male_18-24": {
+        "count": 33054219,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_male_25-34": {
+        "count": 37319267,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_male_35-44": {
+        "count": 38068170,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_male_45-54": {
+        "count": 37695904,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_male_55-64": {
+        "count": 36242808,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_male_65+": {
+        "count": 33155017,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_male_Unknown": {
+        "count": 3175,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_unknown_13-17": {
+        "count": 1247755,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_unknown_18-24": {
+        "count": 20283877,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_unknown_25-34": {
+        "count": 26305275,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_unknown_35-44": {
+        "count": 27411917,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_unknown_45-54": {
+        "count": 25306541,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_unknown_55-64": {
+        "count": 22436826,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_unknown_65+": {
+        "count": 21007853,
+        "type": "str"
+    },
+    "demographic_distribution_percentage_for_unknown_Unknown": {
+        "count": 144827,
+        "type": "str"
+    },
+    "estimated_audience_size/lower_bound": {
+        "count": 36732427,
+        "type": "str"
+    },
+    "estimated_audience_size/upper_bound": {
+        "count": 20850254,
+        "type": "str"
+    },
+    "eu_total_reach/$numberInt": {
+        "count": 388284301,
+        "type": "str"
+    },
+    "impressions/lower_bound": {
+        "count": 47685712,
+        "type": "str"
+    },
+    "impressions/upper_bound": {
+        "count": 47475013,
+        "type": "str"
+    },
+    "languages": {
+        "count": 347097805,
+        "max_length": 50,
+        "type": "str_array"
+    },
+    "lost": {
+        "count": 394,
+        "type": "bool"
+    },
+    "page_id": {
+        "count": 433819698,
+        "type": "str"
+    },
+    "page_name": {
+        "count": 433794809,
+        "type": "str"
+    },
+    "publisher_platforms": {
+        "count": 433707418,
+        "max_length": 4,
+        "type": "str_array"
+    },
+    "spend/lower_bound": {
+        "count": 47685712,
+        "type": "str"
+    },
+    "spend/upper_bound": {
+        "count": 47643239,
+        "type": "str"
+    },
+    "target_ages": {
+        "count": 389699124,
+        "max_length": 2,
+        "type": "str_array"
+    },
+    "target_gender": {
+        "count": 389699124,
+        "type": "str"
+    },
+    "target_locations/FOR/excluded": {
+        "count": 2182331311,
+        "type": "bool"
+    },
+    "target_locations/FOR/name": {
+        "count": 2182331311,
+        "type": "str"
+    },
+    "target_locations/FOR/num_obfuscated/$numberInt": {
+        "count": 2182331311,
+        "type": "str"
+    },
+    "target_locations/FOR/type": {
+        "count": 2182331311,
+        "type": "str"
+    }
+}

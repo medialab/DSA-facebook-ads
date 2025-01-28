@@ -43,7 +43,7 @@ Or add an extra integer <N> argument to run only on first N rows, for instance:
 python analyze_data_structure.py ads.json.gz 1000000
 ```
 
-Returns 3 files (possibly named `ads_first_N_lines` when relevant):
+Returns 2 files (possibly named `ads_first_N_lines` when relevant):
 
 - [`ads.json.gz.datastructure.json`](ads.json.gz.datastructure.json): a json of all useful fields wih counts and natures
 - [`ads.json.gz.regions.csv`](ads.json.gz.regions.csv): a csv with all delivery regions with counts

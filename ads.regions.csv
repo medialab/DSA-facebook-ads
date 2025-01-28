@@ -1,0 +1,3379 @@
+region,count
+Minnesota,6276320
+Wisconsin,6481219
+Alabama,6099154
+Florida,7107546
+Georgia,6727627
+Iowa,6012341
+Michigan,6788000
+North Carolina,6754615
+South Carolina,6243838
+Tennessee,6420987
+Virginia,6618936
+Illinois,6667069
+Ontario,722362
+Unknown,4852991
+Pennsylvania,6849989
+New York,6835145
+New Hampshire,5400893
+California,7145321
+Ohio,6708353
+Nevada,5976055
+Missouri,6380807
+Massachusetts,6253950
+Maryland,6303921
+Colorado,6335546
+New Jersey,6479806
+Kansas,5952849
+Arizona,6663361
+Montana,5227471
+Kentucky,6102018
+Idaho,5433363
+"Washington, District of Columbia",3832880
+Washington,6309244
+Louisiana,6053222
+Texas,7190068
+Oregon,6117411
+Utah,5762189
+Vermont,4690978
+Oklahoma,6065027
+Indiana,6435154
+New Mexico,5763487
+Nebraska,5619681
+Mississippi,5649213
+Delaware,5075204
+Hawaii,4967443
+West Virginia,5592743
+Wyoming,4593526
+Arkansas,5820281
+Maine,5501055
+Connecticut,5964162
+Rhode Island,5039698
+South Dakota,4821400
+North Dakota,4673337
+Alaska,4960422
+England,1245227
+Comunidad Valenciana,356668
+Caguas,62524
+Brașov County,253284
+Bangkok,149249
+Nordrhein-Westfalen,757263
+Rajasthan,1253057
+Oslo,122090
+Cairo Governorate,149839
+Jalisco,659572
+Kosovo,76776
+Maseru District,36005
+Woqooyi Galbeed,45320
+Gauteng,121879
+East Berbice-Corentyne,25000
+Shanghai,56170
+Quintana Roo,525357
+Istanbul Province,260144
+Quebec,616287
+Hessen,661246
+Chiang Rai,74389
+Veracruz,576097
+West Nusa Tenggara,216630
+Wales,774725
+Dhaka Division,232114
+Yangon,82973
+Bimini,6447
+Naypyidaw,28710
+Mandalay,63913
+Magwe,46336
+Ayeyarwady Region,31267
+Carolina,63715
+Humacao,47014
+Bayamón,66467
+San Juan,278167
+District of Columbia,673638
+Goiás,1177246
+Utuado,37660
+Arecibo,42901
+Aibonito,38147
+Aguadilla,49114
+Rincón,37687
+Vieques,32590
+Yabucoa,36357
+Villalba,34058
+Vega Alta,37758
+Cataño,38381
+Vega Baja,44938
+Toa Baja,42816
+Trujillo Alto,46747
+Santa Isabel,33576
+Toa Alta,19666
+San Sebastián,41950
+San Lorenzo,37938
+Ceiba,32270
+San Germán,40290
+Hormigueros,32440
+Sabana Grande,35825
+Ponce,62788
+Naguabo,34913
+Maricao,22703
+Luquillo,38023
+Las Piedras,40472
+Isabela,44543
+Guayama,41609
+Guaynabo,57681
+Fajardo,41445
+Dorado,48918
+Culebra,21670
+Cayey,43945
+Salinas,36983
+Río Grande,40606
+Adjuntas,33722
+Camuy,38835
+Comerío,33502
+Corozal,40858
+Cidra,43805
+Coamo,40492
+Ciales,32676
+Canóvanas,41025
+Cabo Rojo,46082
+Guayanilla,33618
+Barranquitas,38271
+Barceloneta,37142
+Añasco,38255
+Arroyo,32420
+Aguas Buenas,35444
+Aguada,42541
+Guánica,33441
+Gurabo,40899
+Quebradillas,37414
+Maunabo,28130
+Peñuelas,33313
+Patillas,33034
+Orocovis,34983
+Naranjito,36610
+Morovis,38236
+Moca,39625
+Loíza,32354
+Mayagüez,55566
+Hatillo,45381
+Manatí,41277
+Lares,36718
+Lajas,36041
+Las Marías,8716
+Juana Díaz,40593
+Juncos,40344
+Jayuya,33390
+Yauco,40184
+Minas Gerais,1598815
+Chihuahua,552806
+Tamaulipas,581109
+New Brunswick,450214
+Coahuila de Zaragoza,564738
+Sonora,535680
+Baja California,560788
+US Virgin Islands,37312
+Västra Götaland County,374998
+Manitoba,467670
+Buenos Aires,436285
+Edo State,72215
+Donetsk Oblast,147862
+Katanga,41884
+Chernihiv Oblast,226008
+Kharkiv Oblast,263630
+Emilia-Romagna,729057
+Midi-Pyrénées,436199
+Nairobi,86148
+Santa Catarina,1355369
+Comunidad de Madrid,358921
+Bishkek,62162
+Ouest Department,50419
+Lombardia,780293
+Gujarat,994239
+Tbilisi,156656
+San José Province,78677
+Distrito Especial,214988
+Valle del Cauca,208112
+São Paulo (state),2279610
+Tver Oblast,16315
+Distrito Nacional,74640
+Turks and Caicos Islands,26485
+Chandigarh,796809
+Delhi,1158999
+Goa,752332
+Punjab,164241
+Paraná,1401604
+Guatemala Department,81561
+West Bank,105805
+Puglia,654351
+Rio de Janeiro (state),1438744
+Free State,80583
+Alajuela Province,64636
+Castries,32315
+Beijing,42359
+Nizhny Novgorod Oblast,26068
+British Columbia,595629
+Nuevo León,656519
+Ahal Region,21294
+Tyumen Oblast,21223
+Anambra State,63344
+Umbria,602662
+Lower Silesian Voivodeship,358762
+Saint Helier,45684
+Aragón,282743
+Marrakesh-Tensift-El Haouz,105849
+Port Said Governorate,90932
+Federation of Bosnia and Herzegovina,126211
+Western Area,49032
+Colón Province,32019
+Entre Rios,224806
+Coimbra District,135721
+Kolda Region,21109
+Maharashtra,1275687
+Madhya Pradesh,1130285
+Tanintharyi Region,28827
+Mangystau Region,45092
+Meta,143712
+North Governorate,92567
+Puntarenas Province,56628
+Astrakhan Oblast,17699
+Moscow,65125
+Altai Krai,18412
+Leningrad Oblast,15711
+Tula Oblast,16949
+Nitra Region,229414
+Baghdad Governorate,234587
+Alberta,551211
+Banská Bystrica Region,222662
+Vilnius County,135750
+Federal Capital Territory,87515
+Perm Krai,22944
+Balearic Islands,294251
+Sindh,124018
+Tashkent Region,50371
+Dublin,198731
+West Kalimantan,218916
+Kabul Province,57757
+Sicilia,648673
+Dakar Region,63265
+Silesian Voivodeship,364704
+Kedah,128014
+Samarqand Region,27808
+Kinshasa,54556
+Islamabad Capital Territory,106938
+KwaZulu-Natal,99656
+North West,77865
+Cantabria,247999
+Gaziantep Province,150247
+Epirus (region),207303
+Northern Aegean,204289
+Rio Grande do Sul,1289632
+Lagos State,103349
+Uttar Pradesh,1394845
+Porto District,173084
+La Paz Department,145247
+Monufia Governorate,101904
+Municipality of Centar (Skopje),77810
+Dohuk Governorate,294760
+Campania,688681
+Thiès Region,40045
+Chaco,205540
+Harare Province,47322
+Lazio,732942
+Adana Province,165838
+Central District,516095
+Azua Province,37329
+La Vega Province,54422
+Misiones,212235
+Karachay-Cherkessia,13071
+Ceará,1120019
+Lisbon District,212413
+Rabat-Salé-Zemmour-Zaer,111178
+Guayas Province,148912
+Chuquisaca Department,54965
+Rivera Department,42739
+Greater Accra Region,77020
+Karnataka,1038397
+State of Mexico,722192
+Gegharkunik Province,21325
+Fukuoka Prefecture,75206
+Kahramanmaraş Province,134060
+San Luis Potosi,531529
+Makkah Region,99762
+Guerrero,504574
+Hidalgo,558738
+Michoacán de Ocampo,566994
+Timiș County,265501
+Southern District,475380
+Piedmont,699776
+Dar es Salaam,65662
+Islas Canarias,313530
+Montserrado County,50147
+Cataluña,395184
+Tuscany,706940
+Southern Aegean,233896
+Guam,44837
+Republika Srpska,109513
+İzmir Province,195280
+Grand Casablanca,119000
+Tangier-Tetouan,108267
+Tamil Nadu,959687
+Chhattisgarh,931378
+Callao,113860
+Pays de la Loire,432273
+Central Macedonia,269605
+Piura Region,105469
+San Martín Region,88853
+Chiquimula Department,34154
+Jutiapa Department,33845
+Denizli Province,144247
+Windward Islands,23133
+Baku,72914
+Ankara Province,196118
+Île-de-France,533132
+Basilicata,554299
+Tlaxcala,483274
+Demerara-Mahaica,53146
+Western Cape,117591
+Northern Mindanao,192326
+Bahia,1168551
+Nunavut,241521
+Morelos,551585
+Bago Region,52130
+Bayern,716444
+Hamburg,579084
+Berlin,634835
+Molise,529500
+Aosta Valley,479121
+Trentino-Alto Adige,611149
+Sardinia,596914
+Marche,623098
+Abruzzo,605043
+Liguria,646085
+Friuli-Venezia Giulia,620682
+Calabria,596744
+Veneto,714660
+Niedersachsen,657376
+Schleswig-Holstein,572207
+Sachsen,589106
+Baden-Württemberg,700831
+Rheinland-Pfalz,633221
+Brandenburg,554730
+Shan State,58357
+Rakhine State,43378
+Sagaing,51327
+Karan State,44201
+Drenthe,270592
+Friesland,277173
+Gelderland,335711
+Groningen,283333
+Limburg,321794
+North Brabant,349557
+Noord-Holland,367852
+Utrecht,318001
+Zeeland,279254
+Zuid-Holland,368051
+Overijssel,301283
+Flevoland,283373
+Wallonia,297347
+Brussels,287419
+Flemish Region,401890
+Mon State,46805
+Kosrae,9510
+Pohnpei,22694
+Chukotka Autonomous Okrug,2998
+Eastern District,20130
+Western District,13972
+Pamplemousses District,32969
+Flacq District,34378
+Northern Mariana Islands,28773
+Savanne District,24336
+Grand Port District,30039
+Moka District,26826
+Plaines Wilhems District,51326
+Rivière du Rempart District,35032
+Rivière Noire District,28884
+Port Louis District,43298
+La Libertad Region,112929
+Southern Province,148209
+Northern Territory,320443
+Jervis Bay Territory,44603
+Australian Capital Territory,355036
+New South Wales,528193
+Queensland,494491
+South Australia,413491
+Tasmania,360760
+Victoria,537589
+Western Australia,441419
+Newfoundland and Labrador,395633
+Nova Scotia,452465
+Saskatchewan,453327
+Yukon,273647
+Northwest Territories,272859
+Prince Edward Island,340991
+Auckland Region,166180
+Bay of Plenty Region,117629
+Canterbury,135652
+Gisborne District,78309
+Hawke's Bay,101691
+Manawatu-Wanganui,110903
+Marlborough Region,80699
+Nelson Province,89084
+Northland Region,98603
+Otago,115754
+Southland,93239
+Taranaki,96231
+Waikato,127897
+Wellington Region,131413
+West Coast,72357
+Tasman District,72740
+Caqueta,112757
+Hunedoara County,229265
+Prahova County,249628
+Neamț County,227571
+Mureș County,252914
+Mehedinți County,212710
+Maramureș County,239143
+Iași County,257543
+Ialomița County,208802
+Harghita County,224233
+Satu Mare County,223888
+Galați County,229286
+Dolj County,235345
+Constanța County,256468
+Cluj County,270264
+Bucharest,305756
+Bihor County,246413
+Sălaj County,214748
+Sibiu County,242650
+Alba County,232237
+Haute-Normandie,414478
+Nord-Pas-de-Calais,443179
+Lorraine,432129
+Limousin,373795
+Languedoc-Roussillon,441452
+Franche-Comté,388685
+Champagne-Ardenne,400705
+Centre,423625
+Bretagne,424998
+Bourgogne,404977
+Basse-Normandie,398400
+Aquitaine,443799
+Tulcea County,207358
+Arad County,243490
+Caldas,147103
+Rhône-Alpes,473646
+Borsod-Abaúj-Zemplén County,337193
+Baranya County,330421
+Azores,127899
+Viana do Castelo District,118747
+Setúbal District,154637
+Santarém District,133744
+Leiria District,138778
+Csongrád County,331632
+Madeira,126881
+Faro District,158794
+Braga District,145127
+Aveiro District,141148
+Masovian Voivodeship,400983
+West Pomeranian Voivodeship,326224
+Budapest,447939
+Győr-Moson-Sopron County,340566
+Narino,133620
+Cundinamarca,182829
+Santander,170562
+San Andres y Providencia,90780
+Risaralda,157497
+Quindio,135952
+Norte de Santander,150742
+Hajdú-Bihar County,325991
+Huila,139437
+Cordoba,136737
+Cauca,144582
+Atlantico,158038
+Antioquia,224641
+Szabolcs-Szatmár-Bereg County,321528
+Pest County,394694
+Provence-Alpes-Côte d'Azur,477556
+Alsace,433314
+Warmian-Masurian Voivodeship,306667
+Tolima,151811
+Olt County,212238
+Dâmbovița County,228786
+Caraș-Severin County,217090
+Botoșani County,218110
+Bistrița-Năsăud County,225121
+Bacău County,235810
+Bolivar,152888
+Magdalena,140745
+Vâlcea County,216820
+Choco,105816
+Arauca,101603
+Veszprém County,322725
+Vas County,310940
+Tolna County,304985
+Nógrád County,304451
+Komárom-Esztergom County,326659
+Suceava County,235790
+Vrancea County,210625
+Békés County,311721
+Portalegre District,101307
+Giurgiu County,210032
+Gorj County,214564
+Buzău County,217218
+Argeș County,236063
+Boyaca,144217
+La Guajira,116379
+Fejér County,339251
+Opole Voivodeship,300204
+Ilfov County,230903
+Roraima,797029
+Tierra del Fuego,174065
+Etelä-Savo,117575
+Poitou-Charentes,410210
+Picardie,412633
+Corse,345531
+Heves County,316770
+Bács-Kiskun County,333423
+Leeward Islands,14024
+Saint Barthélemy,15369
+Tavastia Proper,126651
+Central Finland,131318
+Pirkanmaa,153244
+Lapland (Finland),117855
+Castilla y Leon,296862
+Navarra,248340
+Vestfold,82515
+Córdoba,294091
+Telemark,72883
+Oppland,75578
+Møre og Romsdal,82458
+Hedmark,76990
+Aust-Agder,67370
+Campeche,473165
+French Guiana,37425
+South Karelia,114530
+Corrientes,207565
+Viseu District,121794
+Rio Grande do Norte,995316
+Vila Real District,107823
+Guarda District,100414
+Évora District,112080
+Castelo Branco District,112402
+Braganca,100245
+Beja District,110653
+Podkarpackie Voivodeship,309021
+Piauí,973890
+Jujuy,181839
+Mato Grosso,1089067
+Maranhão,1029076
+Espírito Santo,1078073
+Vorarlberg,235513
+Burgenland,236305
+Santiago del Estero,178183
+Neuquén,193312
+Mendoza,222276
+Greater Poland Voivodeship,355982
+Świętokrzyskie Voivodeship,296701
+Kainuu,97011
+Chiapas,496240
+Baja California Sur,472162
+Aguascalientes,486834
+Distrito Federal,701092
+Colima,460322
+Durango,509319
+Oaxaca,510826
+Tabasco,469432
+Sinaloa,499254
+Querétaro Arteaga,556799
+Puebla,602730
+Guanajuato,604364
+Nayarit,473171
+Satakunta,121743
+Southern Ostrobothnia,117073
+Finnmark,63253
+Amapá,812736
+La Rioja,396297
+Åland Islands,96108
+Catamarca,176783
+Călărași County,212620
+Santa Cruz,176011
+Covasna County,212467
+Casanare,119848
+Zala County,312996
+San Luis,184625
+Salta,205973
+La Pampa,182854
+Pohjois-Savo,124954
+Rondônia,956604
+Päijät-Häme,129376
+Sucre,163447
+Cesar,127823
+Jász-Nagykun-Szolnok County,317576
+Somogy County,318883
+Tocantins,916480
+Vaslui County,213130
+Teleorman County,207108
+Brăila County,213594
+Putumayo,105165
+Tyrol,260188
+Federal District,995649
+Amazonas,1122128
+Alagoas,964637
+Acre (state),811822
+Vienna,340067
+Styria,292001
+Salzburg,252818
+Upper Austria,288565
+Lower Austria,299989
+Carinthia,244748
+Tucuman,201558
+Santa Fe,303135
+Mato Grosso do Sul,1092535
+Pará,1067115
+Formosa,182905
+Pomeranian Voivodeship,340478
+Podlaskie Voivodeship,294777
+Lesser Poland Voivodeship,364819
+Lubusz Voivodeship,301469
+Lublin Voivodeship,312561
+Łódź Voivodeship,338118
+Kuyavian-Pomeranian Voivodeship,321465
+Pernambuco,1138718
+Paraíba,1020179
+Sergipe,933046
+Río Negro,193512
+Yucatán,529455
+Rogaland,99714
+Vest-Agder,78551
+Troms,79858
+Sør-Trøndelag,90036
+Sogn og Fjordane,64565
+Østfold,87395
+Principality of Asturias,267980
+Nord-Trøndelag,69085
+Nordland,84466
+Hordaland,102953
+Buskerud,86473
+Akershus,103776
+Zacatecas,492810
+Region of Murcia,284618
+Andalusia,379791
+Ciudad Autónoma de Buenos Aires,295125
+Southwest Finland,159000
+Chubut,192580
+Uusimaa,229018
+North Karelia,113918
+Kymenlaakso,122268
+Ostrobothnia (region),129295
+Central Ostrobothnia,103257
+Northern Ostrobothnia,134828
+País Vasco,287955
+Galicia,297784
+Extremadura,256791
+Castilla-La Mancha,287893
+Auvergne,392229
+Guaviare,79243
+Marquesas Islands,7583
+Yuen Long District,1614
+Islands District,1863
+Hong Kong,88798
+Guainia,57920
+Vichada,60020
+Vaupes,45333
+North Denmark Region,248707
+Region of Southern Denmark,285053
+Capital Region of Denmark,324262
+Zealand Region,272134
+Central Denmark Region,289485
+Kwai Tsing District,1140
+Yau Tsim Mong District,1786
+Sai Kung District,1666
+Tuen Mun District,960
+Los Lagos Region,145785
+Ilocos Region,197289
+Western Visayas,211423
+Changhua,243566
+Haiphong,78852
+Punjab region,1067630
+Beirut Governorate,112575
+Ulan Bator,80166
+Northern Province,126338
+Amman Governorate,96807
+Haryana,1306253
+West Bengal,994356
+Stockholm County,411712
+Dubai,118018
+Alexandria Governorate,122055
+Osun State,59862
+Tunis Governorate,72579
+Attica (region),336145
+Kampala District,56354
+Diego Martin Regional Corporation,25964
+Western Province,213440
+Cusco Region,106866
+Metro Manila,293389
+Guangdong,50771
+Eastern Province,266628
+Muscat Governorate,69926
+Bamako,53942
+Zagreb,183373
+Prachuap Khiri Khan,70188
+Emirate of Sharjah,71184
+Saint George Parish,62095
+Littoral Region,48684
+Addis Ababa,62770
+Nord Department,26111
+Johor,152719
+Saint John Figtree,16824
+Andhra Pradesh,968363
+Banaadir,54158
+Bari,32708
+Limpopo,77622
+Kanagawa Prefecture,100990
+Tokyo,115484
+Paro District,29865
+Västmanland County,302851
+Santo Domingo Province,72867
+Central Java,287302
+Kaduna State,71760
+Jerusalem,449585
+Central Visayas,215044
+Hawalli Governorate,55217
+Borno State,58471
+New Providence,48292
+Grand Cayman,35258
+Tel Aviv,479665
+Santiago Metropolitan Region,286471
+North Western Province,82588
+Kiev,97682
+Chittagong Division,203256
+San Salvador Department,72281
+Telangana,1004692
+County Mayo,108146
+Sligo,92963
+Lusaka Province,55656
+Oyo State,75093
+Wexford,113592
+Tainan,262544
+Kigali,47776
+Central Region,195516
+Lower Juba,24600
+Canton of Geneva,128230
+Hhohho Region,32642
+Khyber Pakhtunkhwa,106462
+Scotland,724350
+Lima Region,185818
+Poltava Oblast,243240
+South Moravian Region,227317
+Ústí nad Labem Region,196720
+Riyadh Region,105910
+Plateau State,63059
+West Java,301272
+Wakiso District,23256
+Selangor,175569
+Southern Governorate,28182
+Saint Michael,41756
+Saint Petersburg,46400
+Cagayan Valley,180116
+Valparaíso Region,182585
+Skåne County,371897
+Şanlıurfa Province,135850
+Liaoning,23549
+Kerala,874720
+Dakahlia Governorate,108295
+Kachin State,47037
+Northern Ireland,620312
+Bremen,517456
+Saarland,521504
+Mecklenburg-Vorpommern,524691
+Saxony-Anhalt,545836
+Thüringen,555005
+Imbabura Province,90210
+Aichi Prefecture,87126
+Calabarzon,275997
+Olancho Department,34711
+Vallée du Bandama,35751
+Upper West Region,26671
+Gros-Islet,21685
+Nouakchott,49601
+Western Highlands Province,14831
+Blantyre District,35466
+Cortés Department,63791
+Mordovia,12311
+Tipaza Province,53323
+South Governorate,89189
+Peloponnese (region),226636
+Red Sea Governorate,93416
+Asunción,99052
+Soccsksargen,182071
+,209
+Conakry,48611
+Central Luzon,259303
+Panamá Province,79018
+Kandahar Province,40571
+Miranda (state),48444
+Kirkuk Governorate,291474
+Enugu State,64805
+Khon Kaen,75225
+Tarapacá Region,129232
+Special Region of Yogyakarta,232485
+Canindeyú Department,57563
+Escuintla Department,38861
+Erbil Governorate,346105
+Okinawa Prefecture,85440
+Dnipropetrovsk Oblast,296635
+Chiriquí Province,42415
+Santa Bárbara Department,34936
+Harbour Island,11576
+Marsh Harbour,13087
+Northern District,451584
+Dalarna County,295552
+Antalya Province,190409
+Hamilton Parish,36388
+Mukdahan,52189
+Galway,130727
+Jeollabuk-do,23848
+Prachin Buri,59738
+Caraga,172096
+Fès-Boulemane,98108
+British Virgin Islands,24723
+Nong Bua Lam Phu,51123
+Davao Region,196856
+Montevideo Department,82849
+Nagano Prefecture,63003
+Artibonite Department,26516
+Carazo Department,25943
+Elbasan County,44449
+Belize District,48423
+Kuala Lumpur,169706
+Gyeonggi-do,52283
+Abu Dhabi,96830
+Chon Buri,99528
+Cordillera Administrative Region,181095
+Manabí Province,113853
+Sacatepéquez Department,44455
+Toledo District,26533
+Sánchez Ramírez Province,39445
+Jeju-do,17370
+Bagmati Zone,87077
+Al Madinah Region,62960
+Donegal,116693
+Logar Province,15230
+Kingston Parish,18857
+Batangas City,12578
+Arima,25843
+Larnaca District,95131
+Diyala Governorate,225686
+Rivas Department,31224
+Tripoli District,66207
+Azad Kashmir,83413
+San Fernando,33770
+Bioko Norte Province,30241
+Almaty Region,71698
+Chișinău,92903
+Chiba Prefecture,82736
+Bình Dương Province,75884
+Aragua,52595
+Lara,50811
+East Java,292676
+Taipei,309128
+Penal-Debe Regional Corporation,27971
+Ho Chi Minh City,118762
+Himachal Pradesh,910835
+Capital District,71473
+Carabobo,56568
+Western Greece,226246
+San Cristóbal Province,53961
+Heifa,456224
+Blagoevgrad Province,96187
+Delta State,71803
+Vojvodina,116593
+Istria County,145183
+Bicol Region,189914
+Tatarstan,29830
+North Sumatra,253044
+Chiang Mai,97294
+Karabük Province,115844
+Panevėžys County,91917
+Zonguldak Province,125849
+Konya Province,159389
+Al-Qassim Province,50912
+Nugal,30682
+Haskovo Province,86820
+Chaguanas,36479
+Ternopil Oblast,235359
+Dhi Qar Governorate,171181
+Zhytomyr Oblast,228247
+Zaporizhia Oblast,244030
+Zakarpattia Oblast,243015
+Volyn Oblast,224133
+Vinnytsia Oblast,244446
+Sumy Oblast,222948
+Mila Province,51993
+Rivne Oblast,226308
+Odessa Oblast,268368
+Lviv Oblast,272561
+Luhansk Oblast,128633
+Kiev Oblast,266533
+Khmelnytskyi Oblast,233768
+Kherson Oblast,217596
+Algiers Province,80668
+Kosi Zone,59059
+Bali,245072
+Famagusta District,92809
+Šiauliai County,96869
+Nasarawa State,52943
+Chechnya,15101
+Irbid Governorate,60353
+Jammu and Kashmir,844531
+Diyarbakır Province,131499
+Akmola Region,62607
+Irrawaddy,33434
+Cherkasy Oblast,232028
+Ashanti Region,57433
+Sangre Grande Regional Corporation,26245
+Saint James Parish,32023
+Saint Ann Parish,26254
+Manchester Parish,25278
+Rajshahi Division,182766
+Khulna Division,186399
+Barisal Division,171019
+Thừa Thiên–Huế Province,69226
+Central Governorate,40833
+Sfax,56215
+La Libertad Department,56560
+Sonsonate Department,42356
+Uttarakhand,932028
+Manipur,672018
+Gandaki Zone,60160
+Saladin Governorate,199459
+Nineveh Governorate,274934
+Chernivtsi Oblast,231768
+County Cork,151039
+Hà Nội,13122
+Francisco Morazán Department,68523
+Ahuachapán Department,36797
+Zacapa Department,27800
+Chin State,34799
+Manisa Province,148840
+Novosibirsk Oblast,27214
+O'Higgins Region,151290
+Trujillo,37257
+Western Macedonia,200667
+Eastern Macedonia and Thrace,221125
+Zarqa Governorate,58144
+Duarte Province,47798
+Pahang,127779
+South Kazakhstan Region,49275
+Estuaire Province,46310
+Pavlodar Region,42913
+Atyrau Region,50581
+South-East District,52119
+"Bonaire, Sint Eustatius and Saba",21862
+Santo Domingo de los Tsáchilas Province,89818
+Saint Catherine Parish,31248
+Tunapuna-Piarco Regional Corporation,30404
+Capital Governorate,141630
+Zamboanga Peninsula,177519
+Gyeongsangbuk-do,25548
+Arica y Parinacota Region,122540
+Bolívar (state),50952
+Santiago Province,71171
+Kocaeli Province,162825
+Balıkesir Province,154219
+Vitebsk Region,36130
+Criuleni District,45305
+Basarabeasca District,37607
+West Kazakhstan Region,44965
+Centre Region,47710
+Lagunes,25085
+Jharkhand,935081
+Bihar,1037148
+Leeward Islands ,13293
+Barbuda,12724
+Puducherry,653508
+Paramaribo District,50439
+Nickerie District,20463
+Saint Mary Cayon,7057
+Perak,136032
+Negeri Sembilan,135883
+Saint George,39676
+Odisha,909695
+Bay Islands Department,43433
+Copán Department,37301
+Comayagua Department,44620
+Atlántida Department,46887
+Pichincha Province,140752
+Westmoreland Parish,21874
+Meknès-Tafilalet,96842
+Central Province,168088
+Sylhet Division,180812
+Port of Spain,36119
+Klaipėda County,107225
+Assam,858017
+Lumbini Zone,65852
+Najaf Governorate,176645
+Mykolaiv Oblast,228706
+Ivano-Frankivsk Oblast,243121
+Monastir Governorate,51598
+Eastern Cape,89383
+Réunion,42926
+Bío Bío Region,182141
+Jakarta,292727
+Plovdiv Province,115573
+Prague,252795
+Rangpur Division,173756
+Kütahya Province,129922
+Ruse Province,92351
+Phuket,88968
+Krasnoyarsk Krai,24896
+Valverde Province,41966
+Santa Ana Department,50145
+Rift Valley Province,60319
+Bălți,56378
+Timor-Leste,38041
+Santa Elena Province,85458
+Central Serbia,142989
+Yoro Department,46183
+Puerto Plata province,60378
+Middle Shebelle,13637
+Khabarovsk Krai,21973
+Doha,91223
+Azuay Province,109633
+Presov,219992
+Silistra Province,75240
+Kayseri Province,144055
+Bursa Province,176040
+Brest Region,37871
+Banjul,43918
+Sulaymaniyah Governorate,333459
+San Juan-Laventille Regional Corporation,30056
+Arkhangelsk Oblast,14949
+Cochabamba Department,73502
+Jiangsu,34430
+Saint Elizabeth Parish,15181
+Kadiogo,46613
+Arequipa Region,112897
+Taichung,280671
+Zhejiang,32671
+Trelawny Parish,14639
+Luxembourg District,122230
+Aden Governorate,40627
+Santiago,40971
+Dhofar Governorate,41517
+New Taipei City,303682
+Hsinchu City,256563
+Ogun State,68691
+Sofia City Province,148418
+Kyustendil Province,80659
+Varna Province,111313
+Olomouc Region,193455
+Central Bohemian Region,215111
+Littoral–Inner Carniola Statistical Region,57066
+Drava Statistical Region,88919
+Shandong,25179
+Kaohsiung,273169
+Primorje-Gorski Kotar County,151626
+Capital Region,78709
+Giza Governorate,120817
+Cartago Province,53837
+Morazán Department,29505
+Usulután Department,38079
+León Department,33939
+Managua Department,57886
+Qalyubia Governorate,105189
+Al Sharqia Governorate,109700
+Salto Department,43430
+Beni Department,49760
+Souss-Massa-Drâa,104342
+Limassol District,104465
+Tungurahua Province,91511
+Farwaniya Governorate,46114
+Jahra Governorate,38137
+La Altagracia Province,64237
+Salcedo,37607
+San Pedro de Macorís Province,50565
+Karak Governorate,37047
+Crete,236995
+Valais,105142
+Gwangju,19986
+Ticino,115132
+Vaud,133226
+Zürich,156367
+Giresun Province,119964
+Krasnodar Krai,35806
+Bashkortostan,25375
+Kirov Oblast,14630
+Omsk Oblast,19121
+Sakhalin Oblast,18248
+Ulyanovsk Oblast,17351
+Voronezh Oblast,23330
+Magallanes y la Antártica Chilena Region,118291
+Atacama Region,119886
+Anzoátegui,52096
+Falcón,43957
+Táchira,54912
+Zulia,59073
+Chaiyaphum,61348
+Nonthaburi,91515
+Samut Prakan,86868
+Trat,57464
+Samut Songkhram,50884
+Incheon,27587
+Penza Oblast,16395
+Saratov Oblast,22120
+Sverdlovsk Oblast,30226
+Udmurtia,17642
+Mubarak Al-Kabeer Governorate,26406
+Lampung,226191
+Taiwan,7158
+Taoyuan City,293436
+Rivers State,77492
+Zug,74853
+Sakarya Province,135307
+Espaillat Province,45273
+Monte Cristi Province,35469
+Monseñor Nouel Province,44130
+Veraguas Province,26672
+Delta Amacuro,25749
+Monagas,42800
+Nueva Esparta,41486
+Nakhon Sawan,63751
+Surat Thani,92446
+Kwara State,62676
+Tacuarembó Department,35771
+Thanh Hóa Province,70006
+Al Batinah North Governorate,46076
+Municipality of Čair,23897
+Harju County,118077
+Souk Ahras Province,49025
+Pleven Province,88344
+Vysočina Region,178989
+Moravian-Silesian Region,207083
+Kaunas County,122157
+Uva Province,64933
+Coast Province,62231
+Lefkoşa District,25110
+Al Rayyan,35302
+Guanacaste Province,54389
+Kurzeme Region,132391
+Alif Alif Atoll,27931
+Struga Municipality,64273
+Muthanna Governorate,158581
+Jijel Province,53741
+Shkodër County,46413
+Brunei-Muara District,50793
+Quảng Nam Province,74052
+Bình Định Province,65547
+Västernorrland County,288325
+Saint George Basseterre,28120
+Sabah,132576
+Mudug,27853
+Ulsan,17495
+Jönköping County,306812
+Kalmar County,289584
+Södermanland County,311507
+Västerbotten County,296883
+Minsk,61910
+County Tipperary,114207
+Transnistria,53194
+Ialoveni District,50436
+Koh Kong Province,36744
+Akita Prefecture,46358
+Fukui Prefecture,51337
+Gifu Prefecture,64463
+Helmand Province,23436
+Lilongwe District,38518
+Beqaa Governorate,85366
+Littoral Department,43813
+Seoul,61371
+Karbala Governorate,172992
+Malacca,124368
+Terengganu,113609
+La Condamine,31989
+São Tomé Island,26679
+Grenadines,14418
+Jizan Region,43913
+Chungcheongbuk-do,21149
+Daegu,28024
+Bern,129851
+Thurgau,85883
+Malatya Province,128117
+El Seibo Province,33600
+Maputo Province,40659
+Ohrid Municipality,74121
+Al Anbar Governorate,180823
+Durrës County,49733
+Fier County,42487
+Kukës County,29529
+Ilhas,39466
+Saint Peter Port,47515
+Limerick,122844
+County Louth,117790
+Grouville,7220
+Saint Martin,29080
+Hadhramaut Governorate,30928
+Ishikawa Prefecture,55101
+Okayama Prefecture,59558
+Essequibo Islands-West Demerara,19264
+Nan,54208
+Bà Rịa–Vũng Tàu Province,74307
+Khánh Hòa Province,74585
+Da Nang,80520
+South Eastern Region,98247
+Viljandi County,56180
+Latgale,105979
+Basra Governorate,183052
+Constantine Province,61877
+Sétif Province,61463
+Biskra Province,54872
+Annaba Province,59532
+Tumbes Region,74552
+Mimaropa,181105
+Anhui,17738
+Shaanxi,19929
+Trnava Region,227919
+Sucumbíos Province,69128
+Sololá Department,36584
+Totonicapán Department,27481
+Heredia Province,58358
+Gostivar Municipality,63640
+Daman and Diu,40342
+Tak,63957
+Mersin Province,159540
+Ras al-Khaimah,45048
+Umm al-Quwain,24347
+Bocas del Toro Province,25840
+Guárico,39414
+Yaracuy,39164
+Vargas,35884
+Mae Hong Son,53990
+Rayong,76430
+Chanthaburi,62333
+Phangnga,60755
+Kaliningrad Oblast,22939
+Khanty-Mansi Autonomous Okrug,21382
+Rostov Oblast,29188
+Ahmadi Governorate,50332
+Shimane Prefecture,47054
+Wasit Governorate,173933
+Blida Province,59067
+T'bilisi,20196
+Copperbelt Province,42771
+Phnom Penh,92666
+Fukushima Prefecture,56509
+Shiga Prefecture,58966
+Paget Parish,5304
+Halland County,309403
+Sarawak,134098
+Tillabéri Region,9622
+'Asir Region,54215
+Split-Dalmatia County,156975
+Orellana Province,66591
+Santa Cruz Department,84830
+San Miguel Department,45987
+Estelí Department,30576
+Suez Governorate,86177
+Portland Parish,14260
+Ariana Governorate,51198
+Hòa Bình Province,59256
+Clarendon Parish,18192
+Plzeň Region,189700
+Akwa Ibom State,60131
+Adamawa State,56747
+South Bohemian Region,190282
+Pardubice Region,184893
+Central Slovenia Statistical Region,106022
+Košice Region,229137
+Trenčín Region,213415
+Marijampolė County,84299
+Kyrenia District,71912
+Paphos District,89006
+Busan,28623
+Gibraltar,39099
+Saint Thomas Lowland,4631
+Seal Island,20724
+Carriacou,8641
+Nangarhar Province,36813
+Parwan Province,29545
+Balkh Province,38778
+Mount Lebanon Governorate,98240
+Penang,135833
+Luanda Province,62582
+Djibouti ,15178
+Togdheer,25943
+Curaçao,34320
+Saint Brélade,13819
+Cuscatlán Department,33175
+Zlín Region,193176
+Jilin,15686
+Tianjin,22440
+Chongqing,20516
+Bratislava Region,247445
+Saint Mary Parish,12790
+Tarija Department,57604
+La Unión Department,35300
+Luxor Governorate,81636
+Tirana County,79453
+Niger State,58755
+Volgograd Oblast,22195
+Yerevan,65224
+Andorra la Vella,32622
+Kelantan,111432
+Luang Prabang Province,31419
+Gyeongsangnam-do,26144
+Uppsala County,326931
+Vladimir Oblast,15668
+Neuchâtel,85082
+Elazığ Province,120315
+Peravia Province,40824
+Balqa Governorate,40628
+Pathum Thani,86190
+Antofagasta Region,145570
+Maule Region,160590
+Moquegua Region,77673
+Banten,261204
+Podgorica Capital City,70964
+Yamanashi Prefecture,52886
+Ibaraki Prefecture,70261
+Siem Reap Province,61112
+Battambang Province,53443
+Aruba,38610
+Gunma Prefecture,65574
+Hiroshima Prefecture,66809
+Hyōgo Prefecture,76130
+Kyoto Prefecture,72596
+Mie Prefecture,63603
+Miyagi Prefecture,61754
+Nagasaki Prefecture,62561
+Nara Prefecture,54637
+Niigata Prefecture,59555
+Ōita Prefecture,56114
+Osaka Prefecture,87360
+Saitama Prefecture,81107
+Shizuoka Prefecture,73616
+Yamaguchi Prefecture,63190
+Morogoro,30357
+North-West District,28053
+County Clare,106905
+County Longford,83171
+Khomas Region,47495
+Atsimo-Andrefana,33089
+Central Division,52090
+Jerash Governorate,33591
+Sisaket,62624
+Kirovohrad Oblast,223594
+Đồng Nai Province,79068
+Qena Governorate,85524
+Eastern Visayas,181743
+Autonomous Region in Muslim Mindanao,156249
+Yaroslavl Oblast,17994
+Stavropol Krai,25465
+Central Sulawesi,199889
+East Kalimantan,227746
+Bangka–Belitung Islands,194808
+Lambayeque Region,98757
+Ica Region,99585
+Samara Oblast,26865
+Murmansk Oblast,15152
+Moscow Oblast,26236
+Irkutsk Oblast,24374
+Chelyabinsk Oblast,23972
+Hubei,23132
+Henan,16910
+Fujian,24950
+Jiangxi,15881
+Ekiti State,52561
+Osijek-Baranja County,144115
+Imo State,61258
+Ancash Region,98764
+Dajabón Province,32639
+Santiago Rodríguez Province,32046
+San Juan Province (Dominican Republic),38736
+María Trinidad Sánchez Province,40747
+La Romana Province,50474
+Basel-City,107541
+Adıyaman Province,117770
+Canton of St. Gallen,103737
+Appenzell Ausserrhoden,50066
+Norrbotten County,291661
+Çorum Province,122991
+Aksaray Province,121099
+Düzce Province,121083
+Samsun Province,148721
+Muğla Province,164211
+Eskişehir Province,146074
+Edirne Province,118158
+Phitsanulok,67874
+Araucanía Region,150762
+Coquimbo Region,144557
+Krabi,72255
+Ratchaburi,66134
+Suphan Buri,62676
+Barinas,40061
+Apure,35794
+Aqaba Governorate,38807
+Portuguesa,41363
+Mérida,43932
+Sichuan,23767
+Upper East Region,28647
+Eastern Region,64368
+Thái Nguyên Province,67702
+Quảng Bình Province,61281
+Hà Nam Province,59446
+Cần Thơ,69888
+Đồng Tháp Province,62602
+Đắk Lắk Province,67630
+Gafsa Governorate,43328
+Kebili Governorate,36201
+Sousse Governorate,57012
+Freeport,26513
+Thessaly,224936
+Schwyz,73151
+Nghệ An Province,70735
+Hunan,17311
+Heilongjiang,14372
+Semigallia,118005
+Pärnu County,64195
+Prilep Municipality,63381
+Ad Dakhiliyah Governorate,28595
+Kildare,121605
+Oran Province,66361
+Hanover Parish,11952
+Saint Andrew Parish,57535
+Loja Province,88782
+Morona-Santiago Province,71095
+Los Ríos Province,97984
+Chaouia-Ouardigha,92020
+North Central Province,62485
+Tauragė County,77246
+Taza-Al Hoceima-Taounate,84502
+Canelones Department,53915
+Maldonado Department,51130
+Central Department,97890
+Minya Governorate,91747
+Masaya Department,30424
+Granada Department,28173
+Chimaltenango Department,32763
+Quetzaltenango Department,46742
+Izabal Department,37719
+Chontales Department,24208
+Colón Department,31369
+Kyzylorda Region,39903
+County Laois,96082
+Kerry,112199
+Tabora,21071
+Saint Philip,5292
+Racha-Lechkhumi and Kvemo Svaneti,101602
+Imereti,131973
+Tivat Municipality,53231
+El Oued Province,51738
+Tlemcen Province,58156
+Inhambane Province,25451
+Bujumbura,40885
+Manzini Region,31730
+Shirak Province,29403
+Farah Province,16338
+Tottori Prefecture,42036
+Tochigi Prefecture,63013
+Kagawa Prefecture,52870
+Babil Governorate,183165
+Gharbia Governorate,104212
+Retalhuleu Department,29607
+Ash Sharqiyah North Governorate,20856
+Volta Region,31413
+Northern Region,107296
+Quảng Ninh Province,69453
+Bizerte Governorate,50560
+Guizhou,9776
+Doukkala-Abda,92696
+Point Fortin,18293
+Sliven Province,83496
+Montana Province,75854
+Gabrovo Province,79962
+Burgas Province,105163
+Ondo State,59560
+Beheira Governorate,96538
+Guairá Department,56725
+Damietta Governorate,90631
+Matagalpa Department,30291
+Huehuetenango Department,37441
+Kano State,73050
+Östergötland County,314533
+Jämtland County,273774
+Blekinge County,278406
+Bilecik Province,112824
+Daejeon,21030
+Tabuk Region,48485
+Fujairah,36515
+Tomsk Oblast,19078
+Ivanovo Oblast,13841
+Tacna Region,89026
+Ayutthaya,71361
+Phetchabun,60593
+Lampang,63702
+Tozeur Governorate,34484
+N'Djamena,36340
+Vientiane Province,33800
+Uíge Province,14347
+Labuan,90558
+Ailinglaplap Atoll,21767
+Al Jawf Region,36836
+Hatay Province,149756
+San José de Ocoa Province,31864
+Emirate of Ajman,48170
+Ağrı Province,102416
+Chungcheongnam-do,24011
+Sint Maarten,28037
+Bissau,33554
+Hato Mayor Province,34044
+Kilimanjaro,29410
+Mashonaland West Province,16578
+Saint James,10038
+Guadeloupe,32699
+Shida Kartli,126558
+Waterford,111426
+Aïn Defla Province,49657
+Sidi Bel Abbès Province,52959
+Tetovo Municipality,71262
+Sveti Nikole Municipality,46715
+Roscommon,83472
+County Westmeath,103813
+Aragatsotn Province,21255
+Ibb Governorate,29156
+Gomel Region,36766
+Samaná Province,43132
+Shanxi,10103
+Utena County,83012
+Žilina Region,219221
+Yunnan,29682
+Savinja Statistical Region,80410
+Stara Zagora Province,95551
+Pazardzhik Province,88447
+El Oro Province,95661
+Chimborazo Province,86686
+Gharb-Chrarda-Béni Hssen,94133
+Nakhon Pathom,76020
+Phayao,57673
+Aysén Region,107066
+Ionian Islands (region),213407
+Mafraq Governorate,38973
+Herrera Province,23432
+Ubon Ratchathani,68948
+Apurímac Region,75808
+Hsinchu,249358
+Madre de Dios Region,70746
+Primorsky Krai,28278
+East Nusa Tenggara,210586
+Tataouine Governorate,35535
+Lâm Đồng Province,70115
+Cascade,8090
+Beau Vallon,13648
+Saint Peter Basseterre,6986
+Saint John Capisterre,3434
+Bas-Congo,23057
+Niamey,42798
+Maritime Region,44173
+Zambezia Province,25721
+Balochistan,89923
+Grande Comore,31620
+Tongatapu,29280
+Falkland Islands,16909
+Samoa,27983
+Maekel Region,12915
+Districts of Republican Subordination,41048
+Jeollanam-do,18159
+Saint John Parish,46299
+Mwanza,35525
+Sumqayit,36749
+Bulawayo,30690
+Manicaland Province,18522
+Saint Joseph,4038
+Saint John,10004
+Kagera,19695
+Zanzibar Urban,39332
+County Monaghan,90547
+Dire Dawa,32289
+Somali Region,31127
+Misrata District,50369
+Carlow,95878
+Rapti Zone,43820
+Mechi Zone,54991
+Narayani Zone,66647
+Lezhë County,34715
+Old Royal Capital Cetinje,45115
+Belait District,33352
+Kakheti,121103
+Ziguinchor Region,29700
+Kaolack Region,31502
+Erongo Region,35017
+Vieux-Fort,17437
+Grodno Region,38979
+Western Division,43891
+Aomori Prefecture,59137
+Sihanoukville Province,52477
+Kandal Province,50849
+Sud Department,19489
+Isle Of Man,40514
+Sana'a Governorate,50619
+Dibër County,32051
+Dhawalagiri Zone,38324
+Nikšić Municipality,47948
+Pljevlja Municipality,37374
+Mizoram,563305
+Matabeleland North Province,14444
+Nagaland,639068
+Relizane Province,50392
+Jabal al Gharbi District,37919
+Bouïra Province,53303
+Benghazi,55287
+Nabatieh Governorate,80929
+Atlantique Department,24618
+Charlotte,15829
+Perlis,94857
+Thimphu District,45904
+Vientiane Prefecture,49191
+Sofia Region,17378
+East Kazakhstan Region,45354
+Oromia Region,42838
+Kratié Province,36811
+Lovech Province,78708
+Telšiai County,83639
+Hebei,15288
+Gaza Strip,53621
+Muharraq Governorate,38204
+San Vicente Department,33816
+Suchitepéquez Department,32221
+El Paraíso Department,35295
+El Progreso Department,25791
+Valle Department,28007
+Chalatenango Department,35077
+Quiché Department,33022
+Laâyoune-Boujdour-Sakia El Hamra,78762
+Choluteca Department,35963
+Faafu Atoll,12392
+Kumanovo Municipality,69163
+Kon Tum Province,54620
+Amambay Department,65261
+Jinotega Department,23376
+Monte Plata Province,38213
+Nong Khai,57610
+Central Greece (region),234874
+Nakhon Ratchasima,78577
+Guadalcanal Province,8968
+Aargau,114234
+Mpumalanga,79783
+Surin,63370
+Dubrovnik-Neretva County,135307
+Cross River State,56697
+Junín Region,95577
+Huánuco Region,84758
+Cajamarca Region,93104
+Songkhla,77257
+Amur Oblast,17090
+Riau Islands Province,219772
+Gorontalo,190009
+West Sulawesi,190287
+North Sulawesi,214249
+West Sumatra,219180
+Southeast Sulawesi,200164
+Princes Town Regional Corporation,21953
+Ninh Bình Province,62107
+Gozo,75771
+Phú Thọ Province,63370
+Gevgelija Municipality,52333
+Resen (municipality),48208
+South Province,33301
+Tizi Ouzou Province,58770
+Amhara Region,40081
+Djelfa Province,53555
+Mostaganem Province,52972
+Vinica Municipality,45281
+Maysan Governorate,158954
+Lääne County,49626
+Ungheni District,52483
+Jabal al Akhdar,39981
+Hîncești District,47564
+Taiz Governorate,32932
+Cayo District,39239
+Tombouctou Region,19091
+Morobe Province,26506
+Awdal,27573
+Gangwon-do,18489
+Cojedes,32310
+Baoruco Province,31613
+Rize Province,118327
+Graubünden,86090
+Upper Demerara-Berbice,18698
+Sakon Nakhon,62039
+Tigray Region,26494
+Martinique,33531
+Tanga,27370
+Midlands Province,19838
+Arunachal Pradesh,644852
+Tripura,751488
+Budva Municipality,51240
+Jambyl Region,40396
+Kampong Cham Province,49345
+Faryab Province,18591
+Gagauzia,47659
+Minsk Region,29415
+Anenii Noi District,46817
+Phichit,54813
+Buriram,65534
+Cotopaxi Province,83976
+Nyanza Province,45801
+Intibucá Department,29382
+Itapúa Department,72856
+Alto Paraná Department,92190
+Cabañas Department,33568
+Limón Province,45723
+Kabardino-Balkaria,16161
+Kemerovo Oblast,20223
+Kamchatka Krai,15136
+Chuvashia,15993
+Riau,232879
+Nakhon Phanom,57092
+Nakhon Si Thammarat,73424
+Karlovy Vary Region,171471
+Yunlin,235487
+Los Ríos Region,131389
+Coclé Province,27721
+Sisak-Moslavina County,129491
+Karlovac County,125492
+Aceh,213286
+South Sumatra,229273
+South Sulawesi,234491
+Port Moresby,44387
+Agadez Region,22393
+Niğde Province,118054
+Trabzon Province,133636
+Tokat Province,121213
+Antarctica,3621
+Equatoria,43594
+Abia State,64929
+Nantou,234562
+Caaguazú Department,67106
+Aswan Governorate,82272
+Ranong,54534
+Chumphon,62260
+Phetchaburi,62340
+Jambi,207612
+Dagestan,22113
+South Kalimantan,211511
+Papua (province),195862
+Sa Kaeo,57184
+Guangxi,17529
+Canton of Glarus,49727
+Basel-Landschaft,79138
+Northern Cape,64785
+Luzern,99442
+Samut Sakhon,73304
+Roi Et,62422
+Southeast Slovenia Statistical Region,69433
+Lào Cai Province,60164
+Järva County,51005
+Westfjords,24357
+Jalapa Department,28273
+Bạc Liêu Province,56202
+Nam Định Province,65080
+Kumamoto Prefecture,57700
+Kampong Thom Province,38258
+Florești District,43019
+Wicklow,113129
+Cavan,95472
+Commewijne District,14916
+Vidzeme,121481
+Tartu County,81610
+San Salvador and Rum Cay,2877
+Bordj Bou Arréridj Province,52932
+Meghalaya,669754
+Herceg Novi Municipality,47083
+Norfolk Island,7982
+Dodoma,30502
+Uaboe District,5443
+Southern Highlands Province,10094
+Saint Andrew,13545
+Béjaïa Province,58731
+Faiyum Governorate,88762
+Ismailia Governorate,91002
+Paysandú Department,41411
+Cordillera Department,62439
+Cañar Province,78018
+Saint Thomas Parish,10504
+Alytus County,84823
+San Marcos Department,44876
+Rocha Department,36230
+Upper Carniola Statistical Region,78460
+Sing Buri,49326
+Kostroma Oblast,10821
+Madang Province,17840
+Hokkaido,72253
+Miyazaki Prefecture,51410
+Iwate Prefecture,50153
+Berovo Municipality,42978
+Värmland County,291753
+Champasak Province,31951
+Šibenik-Knin County,123900
+Republic of Karelia,13327
+Pattani,58154
+Satun,53707
+Phatthalung,55892
+Zadar County,134279
+Smolyan Province,77232
+Veliko Tarnovo Province,90778
+Southern Peninsula,39007
+Inner Mongolia,10484
+Sukhothai,57745
+Kronoberg County,287607
+Niue,8857
+Cocos (Keeling) Islands,460
+Tekirdağ Province,140836
+Sivas Province,123466
+Bolu Province,121225
+Nevşehir Province,119807
+Isparta Province,128512
+Çanakkale Province,135115
+Solothurn,89599
+Shefa Province,29372
+Sikkim,664238
+Jinja District,21888
+Saint Peter,31977
+Adjara,136054
+Halabja Governorate,231608
+Orange Walk District,38819
+Taraclia District,38345
+Ehime Prefecture,53195
+Petén Department,32409
+Oriental,98860
+Chinandega Department,30904
+Penghu,195083
+Miaoli,239663
+Novgorod Oblast,10952
+Trang,61018
+Varaždin County,131877
+Bingöl Province,95694
+Bitlis Province,94962
+Ordu Province,127892
+Nakhon Nayok,54901
+Sofia Province,92764
+Ad Dhahirah Governorate,18755
+Laghouat Province,51523
+Hradec Králové Region,187600
+Ouargla Province,54844
+Gabès Governorate,44585
+Adamawa Region,24031
+Kilkenny,98585
+County Meath,116946
+Northern Division,25085
+Musandam Governorate,14351
+Strumica Municipality,59320
+Berat County,32505
+Korçë County,42278
+Vlorë County,44298
+Bijelo Polje Municipality,41752
+Zawiya District,44619
+Dubăsari District,38582
+Ryazan Oblast,15812
+Tadla-Azilal,85710
+Şırnak Province,114041
+Cahul District,53168
+Fălești District,45895
+Dobrich Province,83381
+Razgrad Province,81410
+Khammouane Province,26198
+Kwajalein Atoll,15232
+Uşak Province,121335
+Aydın Province,150796
+Burdur Province,117355
+Erzurum Province,120115
+Kastamonu Province,115570
+Van Province,117813
+Karaman Province,116362
+Lamphun,57610
+Bheri Zone,49527
+Hưng Yên Province,63782
+Gnaviyani Atoll,17160
+Kostanay Region,39574
+Praslin,4778
+Sant Julià de Lòria,13832
+Aktobe Region,43525
+Hardap Region,19736
+Ninh Thuận Province,57435
+Durazno Department,32063
+Bueng Kan,50169
+Adygea,12115
+Keelung City,242769
+Kamphaeng Phet,57469
+Sakha Republic,21239
+Komi Republic,12912
+Vĩnh Phúc Province,62727
+Sóc Trăng Province,58812
+Tiaret Province,53076
+Napo Province,71017
+Cerro Largo Department,38827
+Río Negro Department,34903
+Oruro Department,49492
+Eastern Division,9721
+Șoldănești District,38151
+Southwest Region,32538
+Toyama Prefecture,52959
+Brazzaville,39171
+Fribourg,99031
+Para District,11353
+Saint Patrick Parish,14417
+Canillo,16777
+Quảng Ngãi Province,62653
+Hải Dương Province,68988
+Mondulkiri Province,31542
+Kigoma,21615
+Samegrelo-Zemo Svaneti,123940
+Stann Creek District,20793
+Yamagata Prefecture,48655
+Brong-Ahafo Region,36007
+Western Region ,10878
+Galápagos Province,58653
+Long An Province,64397
+Béja Governorate,40792
+Nord-Est Department,16843
+North Kazakhstan Region,36902
+Mafeteng District,11662
+Selenge Province,27559
+Phrae,55290
+Örebro County,300288
+Ben Arous Governorate,51352
+Gansu,9704
+Liberec Region,181625
+Al Wakrah,28568
+Al Khor,25415
+Ha'il Region,41881
+Al Bahah Region,31987
+Haʻapai,5106
+Uri,48102
+Schaffhausen,68512
+Canton of Obwalden,50156
+Kampot Province,45800
+Orhei District,50076
+Samdrup Jongkhar District,24151
+Wakayama Prefecture,49465
+Toledo,5981
+North Ossetia–Alania,18687
+Tibet Autonomous Region,3724
+Bauchi State,53790
+Lop Buri,61967
+Veles Municipality,59188
+Ida-Viru County,62403
+Vĩnh Long Province,58798
+Bình Thuận Province,67401
+Noonu Atoll,14479
+Coastal–Karst Statistical Region,82054
+Gjirokastër County,30881
+Nord-Kivu,38083
+Plav Municipality,35786
+Esmeraldas Province,86069
+San José Department,38018
+Presidente Hayes Department,53585
+Los Santos Province,22976
+Kalasin,59179
+Sanma Province,14350
+Barahona Province,36785
+Eastern Highlands Province,16368
+Kiên Giang Province,67896
+Kinmen,186368
+Alta Verapaz Department,33831
+County Leitrim,78858
+Alaotra-Mangoro,21434
+Austral Islands,6945
+Palmerston Island,5797
+Orientale,31152
+West Region,30630
+Govi-Altai Province,20349
+Soufriere,13231
+Zamora-Chinchipe Province,65122
+Potosí Department,48775
+An Giang Province,65861
+Sagarmatha Zone,45735
+Saint Paul Capisterre,6220
+Huambo Province,23279
+Fergana Region,21773
+Cabinda Province,24287
+Central District ,8919
+Anosy Region,18993
+Glodeni District,41753
+Mogilev Region,31554
+West Coast Division ,6901
+Municipality of Kočani,53136
+Batman Province,116815
+Smolensk Oblast,13486
+Ingushetia,10475
+Buryatia,16278
+Belgorod Oblast,19467
+Vidin Province,74319
+Yobe State,47422
+Afyonkarahisar Province,130200
+Chlef Province,55718
+Kursk Oblast,17166
+Masally District,18737
+Santa Rosa Department,28194
+Concepción Department (Paraguay),51989
+Beni Suef Governorate,87468
+El Taref Province,44833
+Tiền Giang Province,64759
+Nabeul Governorate,54762
+Dhamar Governorate,18056
+Caazapá Department,49302
+Sohag Governorate,90085
+Kafr el-Sheikh Governorate,91020
+Borgou Department,20809
+Yambol Province,79947
+Ebonyi State,47299
+Carchi Province,66445
+Osh Region,38711
+Bukhara Region,19621
+West Papua,188082
+Yala,4661
+Bartın Province,106260
+Savannakhet Province,36431
+Logone Oriental Region,8673
+Siirt Province,99495
+Mbale District,16044
+Centar Župa Municipality,6979
+Kunduz Province,23793
+Kampong Chhnang Province,39641
+Osmaniye Province,125174
+Mardin Province,122738
+Katsina State,52351
+Ma'an Governorate,29029
+Ayacucho Region,84395
+Kalmykia,9866
+Gaza Province,22350
+Cabo Delgado Province,27439
+Bulgan Province,26675
+Lower Shebelle,16125
+Rennell and Bellona Province,1200
+Boquerón department,48290
+Masvingo Province,14151
+Northwest Region,30732
+Singida,24681
+Bangui,33155
+Vologda Oblast,14161
+Arta Region,6406
+Ulcinj Municipality,46618
+Pursat Province,36952
+Kičevo Municipality,57099
+Ilinden Municipality,40921
+Auvergne-Rhône-Alpes,2695
+Hauts-de-France,2124
+Gävleborg County,295864
+Aïn Témouchent Province,46975
+Singapore,110320
+Hanoi,95161
+Southern Nations,36654
+Maluku,190314
+Dadra and Nagar Haveli,714713
+Andaman and Nicobar Islands,467723
+Northeastern Region,38702
+Mubende District,6375
+Kalangala District,1823
+Kiboga District,2996
+Luwero District,7804
+Lyantonde District,2873
+Masaka District,13128
+Mityana District,6510
+Nakaseke District,3124
+Kasese District,9014
+Rakai District,4363
+Amuria District,1769
+Budaka District,431
+Bududa District,278
+Bukedea District,1848
+Bukwo District,1374
+Bulisa District,748
+Butaleja District,424
+Kaliro District,1718
+Ibanda District,4405
+Nebbi District,4144
+Oyam District,885
+Kibale District,4442
+Bundibugyo District,3111
+Bushenyi District,6757
+Hoima District,9427
+Isingiro District,10064
+Maracha District,3050
+Kabale District,8794
+Kiruhura District,3332
+Kisoro District,5143
+Masindi District,7624
+Mbarara District,17457
+Ntungamo District,3775
+Moyo District,3279
+Lira District,11752
+Kamuli District,4602
+Tororo District,8152
+Kapchorwa District,4831
+Kumi District,2783
+Manafwa District,2245
+Namayingo District,240
+Namutumba District,903
+Pallisa District,3069
+Amolatar District,432
+Kotido District,1736
+Amuru District,2908
+Apac District,1908
+Dokolo District,718
+Gulu District,15536
+Kaabong District,948
+Koboko District,4211
+Bandundu,12015
+Kitgum District,4378
+Iganga District,8748
+Kabarole District,11341
+Kaberamaido District,1194
+Kamwenge District,2487
+Kanungu District,3819
+Kayunga District,3786
+Kyenjojo District,3881
+Sembabule District,1357
+Mayuge District,2939
+Moroto District,3320
+Mpigi District,4954
+Mukono District,14574
+Nakapiripirit District,1484
+Arua District,15116
+Nakasongola District,2828
+Rukungiri District,4829
+Equateur,12145
+Kasai-Occidental,17597
+Kasai-Oriental,19381
+Maniema,15865
+Katakwi District,1184
+Sud-Kivu,32285
+Adjumani District,6083
+Bugiri District,3426
+Busia District,7324
+Pader District,2627
+Sironko District,2981
+Soroti District,10159
+Yumbe District,3864
+Abim District,1164
+County Offaly,94670
+Amazonas Region,71338
+Yamalo-Nenets Autonomous Okrug,15085
+Rapla County,53048
+New Valley Governorate,63007
+Asyut Governorate,91266
+Ștefan Vodă District,42525
+Navoiy Region,14543
+Montagnes District,25439
+Abkhazia,111257
+Ganja,30311
+Lankaran District,20575
+Nakhchivan Autonomous Republic,29120
+Karakalpakstan,17947
+Haut-Ogooué Province,18816
+Chuy Region,26952
+Udon Thani,70771
+Loreto Region,88780
+Maha Sarakham,62802
+Chai Nat,51745
+Bengkulu,199749
+Central Kalimantan,205260
+Darién Province,9540
+Madaba Governorate,35173
+Kebbi State,44144
+Kogi State,53289
+Taraba State,48691
+Benué State,55585
+Hualien,218492
+Diekirch District,69113
+Grevenmacher District,62293
+Sokoto State,53483
+Gombe State,50378
+Zamfara State,45768
+Zagreb County,137365
+Vukovar-Srijem County,134291
+Lika-Senj County,109097
+Bjelovar-Bilogora County,120314
+Sal,27438
+Pointe-Noire,36326
+Mayotte,26056
+Santo Antão,18419
+São Vicente,32379
+Mamou Region,16301
+Kankan Region,25295
+Daşoguz Region,4128
+Saint Peter Parish,2300
+Grand'Anse Mahé,18106
+Mont Buxton,27041
+Saint Joseph Parish,6531
+Trarza Region,14698
+Dakhlet Nouadhibou Region,21425
+City of San Marino,17298
+Lebap Region,8383
+Bubanza Province,7092
+Cibitoke Province,8704
+Gitega Province,15832
+Jizzakh Region,13243
+Sirdaryo Region,10632
+Djibouti,26454
+Houet,28293
+Komoe,14000
+Kujalleq,19711
+Qeqqata,28893
+Sermersooq,24897
+Qaasuitsup,22191
+Ngounié Province,13151
+Ogooué-Maritime Province,28886
+Attapeu Province,17195
+Oudomxay Province,20594
+Bokeo Province,23412
+Schaan,12233
+Trinity Palmetto Point,8733
+Talas Region,21902
+Naryn Region,22694
+East Sepik Province,14541
+West New Britain Province,14766
+Enga Province,10395
+Tsirang District,16895
+Punakha District,19645
+Gotland County,257096
+Yozgat Province,113919
+Kars Province,99834
+Vavaʻu,11669
+Anjouan,20402
+Mohéli,11052
+Honiara,22561
+Palau,12445
+Chuuk,18559
+Ouaka,6821
+Sughd Region,24873
+Haute-Kotto,9685
+Jamestown,11568
+Saint Pierre and Miquelon,13795
+Príncipe,6265
+Cacheu Region,6134
+Northern Borders Region,34332
+Skikda Province,54288
+Tébessa Province,53858
+Adrar Province,48394
+Béchar Province,47792
+Boumerdès Province,53468
+Mascara Province,50189
+El Bayadh Province,43133
+Khenchela Province,50458
+M'Sila Province,52913
+Tindouf Province,42878
+Batna Province,59730
+Guelma Province,50736
+Tamanrasset Province,43837
+Absheron District,22849
+Mingachevir,23844
+Shamkir District,19141
+Zaqatala District,19878
+Shusha,18221
+Pwani,16394
+Mbeya,31306
+Al Wahat District,39775
+Kayah State,35837
+Ghanzi District,12937
+Woroba District,19504
+Temburong District,5718
+Kyiv,223044
+Governor's Harbour,4028
+Fresh Creek,5011
+Riga Planning Region,128773
+Al-Qādisiyyah Governorate,168472
+Rock Sound,3737
+Addu Atoll,23610
+Kaafu Atoll,35810
+Baa Atoll,17801
+Shaviyani Atoll,11138
+Lhaviyani Atoll,17987
+Ash Sharqiyah South Governorate,19291
+Al Buraimi Governorate,24066
+Kunene Region,12335
+Carinthia Statistical Region,61626
+Western Region,56911
+Southern Region,41721
+Shumen Province,81205
+Región Autónoma del Atlántico Norte,21762
+North Kalimantan,180997
+Lipetsk Oblast,14139
+Brod-Posavina County,128618
+Koprivnica-Križevci County,122150
+Međimurje County,125595
+Nichollstown and Berry Islands,3982
+Dojran Municipality,34722
+Médéa Province,51801
+Oum El Bouaghi Province,52907
+Bến Tre Province,59954
+Matrouh Governorate,71562
+Florida Department,34099
+Kairouan Governorate,44418
+Cao Bằng Province,52852
+Lạng Sơn Province,59327
+Phú Yên Province,59845
+Sava Region,21960
+Kayes Region,20568
+Namibe Province,17364
+Zaire Province,14771
+Lunda Norte Province,14230
+Dundgovi Province,21522
+Bolikhamsai Province,22274
+Eschen,7170
+Schellenberg,10188
+Vaduz,12932
+Uvs Province,22964
+Encamp,16577
+Bururi Province,11135
+Al Mahrah Governorate,12690
+Norðoyar,17071
+Badghis Province,12254
+Upper Takutu-Upper Essequibo,11465
+Syunik Province,23267
+Tavush Province,23097
+Chikwawa District,4008
+Mangochi District,10347
+Yasothon,54564
+Yap,13003
+Nana-Mambere,8081
+Chari-Baguirmi Region,3105
+Buada District,13247
+Rarotonga,21911
+Greater Upper Nile,11814
+Canton of Nidwalden,47214
+Artvin Province,107611
+Guelmim-Es Semara,76578
+Oued Ed-Dahab-Lagouira,71539
+Nicosia District,96803
+Pando Department,32480
+Northwestern Region,23044
+Tobago,24266
+Couva-Tabaquite-Talparo Regional Corporation,25955
+Mura Statistical Region,68312
+Lower Sava Statistical Region,63115
+Sabaragamuwa Province,81754
+Bắc Ninh Province,68125
+Zaghouan Governorate,35444
+Northern Governorate,30959
+Sidi Bouzid Governorate,40417
+Tây Ninh Province,64633
+Thái Bình Province,64630
+Kasserine Governorate,41118
+Jendouba Governorate,40763
+Kef Governorate,38012
+Mahdia Governorate,44262
+Siliana Governorate,35689
+Medenine Governorate,50587
+Đắk Nông Province,55789
+Bình Phước Province,60147
+Hậu Giang Province,49040
+Hà Tĩnh Province,64010
+Hà Giang Province,54474
+Bắc Giang Province,66867
+Trà Vinh Province,57896
+Soriano Department,35143
+Ocotepeque Department,28778
+Nueva Segovia Department,23746
+South Sinai Governorate,83659
+North Sinai Governorate,76710
+Xorazm Region,15878
+Pailin,29217
+Kindia Region,20481
+Nzérékoré Region,21761
+Balkan Region,8576
+Fogo,20233
+Gorno-Badakhshan Autonomous Region,10403
+Khatlon Region,9823
+São Nicolau,14035
+Boa Vista,19249
+Acquaviva,7968
+Chiesanuova,5081
+Serravalle,19064
+Domagnano,9383
+Faetano,4527
+Maio,13178
+Diffa Region,13913
+Zinder Region,18128
+Likouala Department,1245
+Nimba County,10090
+Margibi County,3485
+La Digue and Inner Islands,7800
+Mangaia,2556
+Sandy Bay,1292
+Bahr el Ghazal,21946
+Svalbard and Jan Mayen,11664
+Fakaofo,5095
+Aitutaki,6195
+Anabar District,3551
+Litoral Province,21901
+Federally Administered Tribal Areas,64060
+Gilgit-Baltistan,70005
+Sangha-Mbaere,2455
+Bay,19839
+Sool,22717
+Najran Region,37683
+Jaluit Atoll,3970
+Moyen-Chari Region,9867
+Ouaddaï Region,14522
+Saint David Parish,12805
+Baie Sainte Anne,11164
+Bam,9147
+Andijan Region,18928
+Namangan Region,18335
+Qashqadaryo Region,14098
+Surxondaryo Region,13125
+Sanguie,5520
+Cuanza Norte Province,10502
+Bale,7574
+Plateaux Region,11125
+Savanes Region,9962
+Cuanza Sul Province,14797
+Benguela Province,30347
+Bayankhongor Province,23770
+Saint Mark Parish,13321
+Zavkhan Province,21774
+Kidal Region,12718
+Khovd Province,24342
+Ömnögovi Province,28258
+Orkhon Province,25599
+Putrajaya,73117
+Xiangkhouang Province,20270
+Lubombo Region,15798
+Houaphanh Province,16600
+Sainyabuli Province,24955
+Luang Namtha Province,18710
+Saint Anne Sandy Point,4710
+Balzers,8805
+Triesenberg,6439
+Saramacca District,14006
+Wanica District,17367
+Anse Etoile,4639
+Bel Ombre,3064
+Saint James Windward,4318
+Wangdue Phodrang District,23103
+Issyk Kul Region,25830
+Manus Province,5992
+New Ireland Province,14863
+Sandaun Province,12811
+Zhemgang District,15011
+Hela Province,8019
+Bumthang District,18772
+Chukha District,33428
+Sarpang District,27141
+Haa District,14840
+Mongar District,21784
+Pemagatshel District,14060
+Samtse District,23097
+Ordino,11996
+Chachoengsao,68226
+Kanchanaburi,65841
+Saraburi,64492
+Amnat Charoen,49829
+Loei,57054
+Bryansk Oblast,13365
+Khakassia,10635
+Ucayali Region,83708
+Hakkâri Province,86054
+Iğdır Province,81846
+Yalova Province,134276
+Kırıkkale Province,109990
+Kırşehir Province,113239
+Jura,63003
+Amasya Province,116774
+Kırklareli Province,118811
+Erzincan Province,105107
+Kurgan Oblast,10641
+Ajloun Governorate,31708
+Yala Province,51908
+Pasco Region,73682
+Jewish Autonomous Oblast,5613
+Rio Claro-Mayaro Regional Corporation,13857
+Jiwaka Province,6225
+Ouémé Department,27294
+Dornogovi Province,25712
+Sikasso Region,22484
+Bié Province,13932
+Sourou,6237
+Salavan Province,18936
+Sekong Province,15652
+Maradi Region,19049
+Boké Region,21807
+Hiran,17564
+Kiribati,9973
+Mahaica-Berbice,12833
+Brvenica Municipality,38499
+Illizi Province,38722
+Mahakali Zone,39843
+Bắc Kạn Province,49553
+Danilovgrad Municipality,30400
+Kolašin Municipality,31916
+Louga Region,25364
+Meemu Atoll,5856
+Treinta y Tres Department,34836
+Pastaza Province,65669
+Lavalleja Department,32841
+Ñeembucú Department,52096
+Paraguarí Department,56358
+San Pedro Department,52852
+Flores Department,27262
+Takhar Province,18267
+Acklins and Crooked Islands,851
+Jõgeva County,47978
+Karnali Zone,23695
+Seti Zone,42957
+Qusar District,17071
+Koulikoro Region,18203
+Lori Province,27772
+Zou Department,15001
+Mopti Region,19798
+Ségou Region,19986
+Thaba-Tseka District,6800
+Triesen,10117
+Narathiwat,56120
+Puno Region,88664
+Kaluga Oblast,16303
+Ihorombe,11711
+Kunar Province,16273
+Radoviš Municipality,49223
+Kaffrine Region,16833
+Shamakhi District,17095
+Dhaalu Atoll,11714
+Lindi,14760
+Kufra District,25719
+Jafara,23843
+Butnan District,37523
+Marj District,33842
+Edineț District,45626
+Svay Rieng Province,43449
+Kolhumadulu Atoll,8722
+Saint Thomas Middle Island,4962
+Bender,41532
+Mchinji District,5329
+Rumphi District,4295
+Malanje Province,13019
+Sanmatenga,13013
+East New Britain Province,19577
+Ruggell,5585
+Sangha Department,5403
+Logone Occidental Region,12744
+Pedernales Province,24022
+Huancavelica Region,67830
+Magadan Oblast,10336
+Samtskhe-Javakheti,116509
+Collines Department,11215
+Stung Treng Province,33306
+Oddar Meanchey Province,30681
+Kampong Speu Province,42006
+Al Hudaydah Governorate,21670
+Saint Lawrence,8842
+Al Bayda Governorate,14623
+Luapula Province,17636
+Northwestern Province,23795
+Saga Prefecture,47585
+Kotayk Province,27972
+Mzimba District,18608
+Salima District,7563
+Zomba District,15703
+Machinga District,5483
+Mulanje District,5720
+Phalombe District,2508
+West Coast Division,18761
+Ararat Province,24037
+Eysturoy,19350
+Vágar,11223
+Choiseul,6830
+Cayman Brac,5815
+Little Cayman,3243
+Armavir Province,22899
+Potaro-Siparuni,5576
+Tokushima Prefecture,46313
+Ghazni Province,19748
+Badakhshan Province,17901
+Baghlan Province,17375
+Ghor Province,10404
+Nimruz Province,15531
+Samangan Province,14468
+Southampton Parish,7851
+Warwick Parish,8198
+Mara,20499
+Shirvan (city),20183
+Gadabay District,13244
+Imishli District,15317
+Qabala District,21233
+Qakh District,18884
+Quba Rayon,21294
+Sabirabad District,15533
+Ruvuma,19006
+Agdam District,14530
+Rukwa,17040
+Jufra District,29339
+Murzuq District,27767
+Nuqat al Khams,40500
+Ghat District,19501
+Agsu District,13622
+Zanzan,24026
+Mtskheta-Mtianeti,112248
+Guria,112773
+Denguélé,20204
+Saint Thomas,7668
+Mashonaland Central Province,8006
+Mashonaland East Province,11005
+Omaheke Region,12621
+Oshana Region,23072
+Otjozondjupa Region,23088
+Vakinankaratra,25398
+Atsimo-Atsinanana,19748
+Harari Region,24568
+Soroca District,46702
+Sîngerei District,44654
+Strășeni District,48100
+Ohangwena Region,11579
+Afar Region,19788
+Far North Region,24985
+North Region,25451
+South Region,20224
+Kgalagadi District,11568
+Kweneng District,18698
+North-East District,31218
+Gambela Region,21340
+Shinyanga,21617
+Zanzibar Central,12279
+Zanzibar North,13586
+Sabha District,38783
+Derna District,36890
+Murqub District,37564
+Nalut District,28430
+ǁKaras Region,21751
+Oshikoto Region,17471
+Atsinanana,27437
+Diana Region,26880
+Analamanga,44229
+Haute Matsiatra,25319
+Vatovavy-Fitovinany,17888
+Boeny,26970
+North Province,13855
+Karaganda Region,44593
+Iringa,26665
+Kvemo Kartli,126282
+Tutong District,17144
+Stepanakert,22338
+Savanes,25541
+Yamoussoukro,26734
+Bas-Sassandra,32944
+Abidjan,54393
+Comoé District,27309
+Lacs District,21754
+Gôh-Djiboua District,24394
+Lagunes District,24274
+Sassandra-Marahoué District,27285
+Shaki District,19294
+Khachmaz District,20199
+Christ Church,15470
+Saint-Louis Region,31921
+Alibori Department,11850
+Suðuroy,13953
+Donga Department,12328
+La Massana,18118
+Escaldes-Engordany,13210
+Streymoy,29804
+Vayots Dzor Province,16686
+St. George's Parish,9974
+Sandys Parish,9658
+Smith's Parish,7898
+Nkhata Bay District,4364
+Khost Province,21272
+Gao Region,22439
+Huíla Province,26908
+Lunda Sul Province,15319
+Dornod Province,27611
+Khövsgöl Province,26348
+Övörkhangai Province,23849
+Darkhan-Uul Province,26674
+Sofala Province,34879
+Nampula Province,35760
+Niassa Province,19885
+Tete Province,28793
+Manica Province,27346
+Maputo,38592
+Devonshire Parish,10117
+Saint Clement,11393
+Saint Ouen,8121
+Saint Mary,4134
+Saint Saviour,13984
+Trinity,7511
+Centre Department,17175
+Sud-Est Department,17698
+Kagoshima Prefecture,54448
+Kōchi Prefecture,44949
+Herat Province,35524
+Kep Province,27971
+Prey Veng Province,40958
+Ratanakiri Province,36332
+Takéo Province,43731
+Banteay Meanchey Province,40056
+Tbong Khmum Province,32943
+Diourbel Region,25962
+Hainan,12750
+Siparia Regional Corporation,15608
+North Eastern Province,31545
+Bolívar Province,71964
+Xinjiang,6955
+Umm Salal,22992
+Altai Republic,7111
+Krapina-Zagorje County,119527
+Požega-Slavonia County,113043
+Virovitica-Podravina County,114609
+Zabaykalsky Krai,13573
+Mari El,12735
+Orenburg Oblast,17940
+Pskov Oblast,11693
+Tambov Oblast,15606
+Targovishte Province,76081
+Vratsa Province,80901
+Central Sava Statistical Region,55125
+Goriška Statistical Region,74889
+Chiayi,209906
+Pingtung,231442
+Taitung,208991
+Yilan,227488
+Jigawa State,39923
+Bayelsa State,50015
+Pernik Province,85141
+Al Daayen,15572
+Hiiu County,34670
+Demir Hisar Municipality,39215
+Kavadarci Municipality,54469
+Saraj Municipality,42460
+Municipality of Štip,59218
+Al Wusta Governorate,19431
+Lääne-Viru County,58963
+Põlva County,45756
+Saare County,49344
+Valga County,49752
+Võru County,49748
+Bosilovo Municipality,34957
+Saïda Province,47050
+Long Island,2703
+Exuma,5498
+Green Turtle Cay,2643
+Sandy Point,484
+Haa Alif Atoll,11081
+Gaafu Alif Atoll,17279
+Laamu Atoll,11214
+Haa Dhaalu Atoll,15847
+Raa Atoll,10621
+Janakpur Zone,49636
+Rîșcani District,42702
+Bar Municipality,40762
+Žabljak Municipality,28220
+Leova District,42007
+Ghardaïa Province,49571
+Fatick Region,20797
+Naâma Province,44119
+Tissemsilt Province,43701
+Tambacounda Region,21896
+Sirte District,36218
+Zambezi Region,12676
+Analanjirofo,18103
+Región Autónoma del Atlántico Sur,27716
+Misiones Department,51713
+Colonia Department,45621
+Río San Juan Department,17048
+Boaco Department,22544
+Manouba Governorate,41038
+Lai Châu Province,43253
+Sơn La Province,57958
+Quảng Trị Province,58453
+Tuyên Quang Province,57553
+Yên Bái Province,56956
+Điện Biên Province,54926
+Gia Lai Province,62990
+Cà Mau Province,58475
+Gümüşhane Province,92160
+Makedonska Kamenica Municipality,39958
+Artigas Department,35082
+Madinat ash Shamal,9384
+Gracias a Dios Department,15681
+Preah Vihear Province,33037
+Agdash District,16958
+Barda District,18876
+Tartar District,17084
+Çankırı Province,103798
+Tafilah Governorate,25511
+Faranah Region,15355
+Ngozi Province,14544
+Saint Luke Parish,3533
+Tiris Zemmour Region,17032
+Inchiri Region,15700
+Manihiki,2123
+Sanaag,19447
+Temotu Province,1905
+Gash-Barka Region,4266
+Baja Verapaz Department,26604
+North Maluku,182445
+Madriz Department,18418
+Lipkovo Municipality,43718
+Arkhangai Province,20921
+Tuva,9541
+Independencia Province,26810
+Uttaradit,54950
+Ang Thong,51881
+Ardahan Province,85380
+Qazakh District,17791
+Ujar District,14292
+Goygol District,15069
+Yevlakh District,17638
+Oghuz District,15411
+Mtwara,19126
+Pemba North,5516
+Neftchala District,14858
+Balakan District,17165
+Bilasuvar District,14500
+Goychay District,18515
+Ismailli District,17294
+Anse Royale,1150
+Shiselweni Region,14746
+Anse Boileau,1017
+Ogooué-Ivindo Province,8921
+Bouenza Department,6854
+Niari Department,10916
+Maryland County,12820
+Labé Region,19031
+Ogooué-Lolo Province,9617
+Namentenga,5302
+Bamyan Province,14978
+Zabul Province,11754
+Mwanza District,2816
+Tadjourah Region,6676
+Ningxia,5246
+Oio Region,3399
+Bayan-Ölgii Province,24827
+Töv Province,23535
+Laghman Province,14444
+North Bank Division,9596
+Trashigang District,23776
+Bengo Province,6740
+Ocnița District,40007
+East Region,16128
+Abyan Governorate,11897
+Ma'rib Governorate,15907
+Centrale Region,8286
+Kouritenga,10645
+Oudalan,5847
+Passore,7393
+Ioba,6118
+Mouhoun,10879
+Oubritenga,6474
+Lhuntse District,15154
+Berea District,11417
+Kayanza Province,9411
+Ruyigi Province,6863
+Torba Province,989
+Moxico Province,12044
+Cuando Cubango Province,10419
+Paktika Province,10781
+Tenasserim,26751
+Benishangul-Gumuz Region,19283
+Itasy Region,9536
+Cimișlia District,43551
+Urozgan Province,13166
+Dedza District,5787
+Dowa District,4441
+Karonga District,6968
+Balaka District,5849
+Sükhbaatar Province,23233
+Makira-Ulawa Province,3205
+Samukh District,10073
+Lerik District,12443
+Matabeleland South Province,11598
+Aghjabadi District,16546
+Fuzuli District,14838
+Hajigabul District,12805
+Valandovo Municipality,42317
+Hajjah Governorate,13575
+Grand'Anse Department,12041
+Nippes Department,10705
+Paktia Province,20528
+Municipality of Čučer-Sandevo,35333
+Galguduud,14383
+Guéra Region,6821
+Kanem Region,3707
+Salamat Region,4511
+Hadjer-Lamis Region,5237
+Bahr el Gazel Region,3590
+Tombali Region,1773
+Kuna de Wargandí,4460
+Zardab District,13648
+Sheema District,1051
+Mono Department,11567
+Muş Province,95376
+Karuzi Province,4304
+Kirundo Province,6754
+Rutana Province,5833
+Malaita Province,6165
+Mandoul Region,5713
+Kilis Province,102802
+Maidan Wardak Province,5939
+Tearce Municipality,41557
+Municipality of Vrapčište,36328
+Sédhiou Region,16558
+Quinara Region,2329
+Gabú Region,6380
+Mayo-Kebbi Est Region,6305
+Bafatá Region,8151
+Dikhil Region,3877
+Tagant Region,5934
+Obock Region,3611
+Tapoa,4200
+Kossi,6701
+Zondoma,5624
+Nyanga Province,7797
+Autonomous Region of Bougainville,9402
+Adrar Region,11503
+Shabwah Governorate,15533
+Lac Region,5267
+Mayo-Kebbi Ouest Region,4775
+Sila Region,3929
+Oryol Oblast,11822
+Bioko Sur Province,2763
+Matam Region,19504
+Central River Division,6243
+Atakora Department,11566
+Plateau Department,12191
+Cunene Province,10696
+Poni,11020
+Tuy,8308
+Muramvya Province,5089
+Woleu-Ntem Province,13781
+Qacha's Nek District,6580
+Saint Paul Parish,6909
+Bong County,14399
+Grand Bassa County,13936
+Cankuzo Province,5798
+Bujumbura Rural Province,6577
+Kédougou Region,18444
+Saada Governorate,8591
+Kavango East,12898
+Amoron'i Mania,11878
+Călărași District,44972
+Kgatleng District,12680
+Căușeni District,45770
+Rezina District,40834
+Agstafa District,15826
+Astara District,15953
+Kapisa Province,9512
+Al Mahwit Governorate,8098
+Tandjilé Region,5059
+Funafuti,12302
+ʻEua,2727
+Oro Province,7737
+Boulgou,11375
+Seno,8735
+Kara Region,11334
+Milne Bay Province,11402
+Wele-Nzas Province,9997
+Quthing District,6741
+Assaba Region,12477
+Makamba Province,9672
+Muyinga Province,11662
+Kurdamir District,14269
+Saatly District,15739
+Bongolava,11868
+Androy,12687
+Menabe,12755
+Betsiboka,11135
+Qinghai,3502
+Saint Lucy,4301
+Lempira Department,30690
+Laborie,8812
+Khentii Province,22313
+Jozjan Province,18409
+Trongsa District,17903
+Leribe District,16629
+Mokhotlong District,9586
+Phongsaly Province,14077
+Moyen-Ogooué Province,12263
+Boulkiemde,15618
+Gourma,11895
+Naouri,4699
+Yatenga,14432
+Jalal-Abad Region,14914
+Jalilabad District,16940
+Khojavend District,15967
+Dashkasan District,9737
+Goranboy District,15515
+Salyan District,16663
+Tovuz District,18326
+Wadi al Shatii District,22589
+Wadi al Hayaa District,24193
+Nord-Ouest Department,16722
+'Amran Governorate,14023
+Briceni District,43600
+Nisporeni District,44600
+Telenești District,42827
+Tunceli Province,81561
+Dosso Region,11670
+Tahoua Region,15744
+Sinop Province,109339
+Negotino Municipality,48408
+Sandoy,8196
+Gamprin,6115
+Fiorentino,5697
+Appenzell Innerrhoden,33987
+Mauren,701
+Borgo Maggiore,6842
+Cantemir District,42139
+Kardzhali Province,77154
+Bogdanci Municipality,40050
+Shabran District,702
+Uthai Thani,50030
+Nenets Autonomous Okrug,3462
+Elías Piña Province,22801
+Mary Region,6750
+Municipality of Probištip,44468
+Jegunovce Municipality,36452
+Planken,1566
+Mohale's Hoek District,9746
+Brokopondo District,7688
+Atiu,2111
+Andrijevica Municipality,26379
+Drochia District,45767
+Debar Municipality,43240
+Rožaje Municipality,38302
+Centro Sur Province,2506
+Southern Red Sea Region,2277
+Bayburt Province,84156
+Alto Paraguay Department,33715
+Municipality of Pehčevo,36080
+Municipality of Aračinovo,39899
+Gradsko Municipality,35232
+Corozal District,7970
+Municipality of Želino,38117
+Dennery,8969
+Banwa,4869
+Micoud,6828
+Sipaliwini District,6455
+Niuas,554
+Marowijne District,8603
+Batha Region,5247
+Coronie District,4768
+Panjshir Province,7836
+Muchinga Province,399
+Gobustan District,455
+Yardymli District,11558
+Municipality of Butel,884
+Šuto Orizari Municipality,1916
+Kenedougou,6622
+Ali Sabieh Region,5514
+Upper River Division,8659
+Cuyuni-Mazaruni,11881
+Chimbu Province,7542
+Dolneni Municipality,35753
+Khizi District,11796
+Shusha District,5955
+Siazan District,1232
+Beylagan District,15044
+Leraba,5717
+Bougouriba,7088
+Saint Patrick,9880
+Saint David,8131
+Kouffo Department,6615
+Butha-Buthe District,5733
+Dagana District,13374
+Omusati Region,12206
+Naftalan,12002
+Kalbajar District,7095
+Khojaly District,5429
+Barima-Waini,7044
+Pomeroon-Supenaam,4729
+Lahij Governorate,2659
+Ad Dali' Governorate,8923
+Municipality of Delčevo,44955
+Gazi Baba Municipality,1044
+Saint Anthony,3769
+Lakshadweep,102060
+Kratovo Municipality,39535
+Nkhotakota District,5557
+Brava,1565
+Gorgol Region,12034
+Lofa County,8779
+Borkou Region,4642
+Plasnica Municipality,42481
+Demir Kapija Municipality,38195
+Kriva Palanka Municipality,45915
+South Georgia and the South Sandwich Islands,284
+Vakaga,6582
+Makedonski Brod Municipality,38897
+Plužine Municipality,21561
+Glacis,1374
+Saint George Gingerland,3454
+Karpoš Municipality,880
+Kemps Bay,390
+Monte Carlo,67
+Dondușeni District,39770
+Vevčani Municipality,32634
+Novo Selo Municipality,35309
+Vatican City,12572
+Bogovinje Municipality,42895
+Rosoman Municipality,35553
+Petnjica Municipality,22515
+Fontvieille,1082
+Guna Yala,1439
+Anse-la-Raye,6046
+Kasungu District,8374
+Îles Tuamotu-Gambier,3918
+Neno District,3041
+Tafea Province,2625
+Christmas Island,543
+Mambere-Kadei,6821
+Kwun Tong District,456
+Buhweju District,232
+Gjorče Petrov Municipality,1601
+Cuvette-Ouest Department,734
+Al Jawf Governorate,727
+Penama Province,1548
+Ganzourgou,1482
+Christ Church Nichola Town,3196
+Sinoe County,7181
+Hodh Ech Chargui Region,8763
+Loyalty Islands,3180
+Kisela Voda Municipality,3736
+Petrovec Municipality,34351
+Grand Gedeh County,7451
+Bomi County,7589
+Thyolo District,4481
+Chiradzulu District,2530
+Lower River Division,2099
+Inagua,1899
+Nana-Grebizi,5564
+Malampa Province,2830
+Gulf Province,5285
+Cuvette Department,1832
+Mauke,1766
+San Blas,4152
+Cat Island,432
+Anseba Region,1670
+Bolama Region,1278
+Rivercess County,868
+Pemba South,7209
+Nui,942
+Ntcheu District,4624
+Melaky,8660
+Occitanie,2025
+Bavaria,1981
+Western Province ,6317
+Aiwo District,6423
+Vaavu Atoll,1657
+Kjosarsysla,5492
+Anibare District,754
+Saint Louis,347
+Pointe La Rue,585
+Southern District ,3730
+Negros Occidental,1525
+Kikladhes,1354
+Pembroke Parish,761
+Ewa District,1694
+Kavango West,4195
+Sha Tin District,622
+South Cotabato,3690
+Bialystok,4720
+Sud-Comoé,4150
+Dix-Huit Montagnes,3346
+Isabel Province,3890
+Scrub Island,478
+Sangha Department ,1872
+Kouilou Department,282
+Bakool,7383
+Ouham-Pende,3663
+Bazega,4765
+Gedo,10671
+East Region ,5329
+Raymah Governorate,560
+Sud-Bandama,3095
+Lankaran,3403
+Savanes ,5263
+Mbomou,3467
+High Rock,1052
+Takamaka,1361
+Hodh El Gharbi Region,9179
+Grand Cape Mount County,6023
+Northern Red Sea Region,3985
+Agnéby,2130
+Bamingui-Bangoran,1625
+Sissili,6303
+Vaitupu,1722
+Mwaro Province,3382
+N'zi-Comoé,2111
+Lékoumou Department,2294
+Skierniewice,8730
+Brakna Region,9885
+Rizal,1172
+Choiseul Province,2011
+Vasilevo Municipality,33697
+Worodougou,2050
+Yevlakh,338
+Noumbiel,3846
+Sham Shui Po District,248
+Central and Western District,727
+Pella,8586
+Municipality of Mavrovo and Rostuša,32844
+Municipality of Aerodrom,2479
+Nsanje District,2985
+Mayaguana,124
+Lozovo Municipality,29631
+Jabrayil District,1450
+Longwood,386
+Fromager,2622
+Marahoué,2114
+Sheki,3221
+Debub Region,624
+Kié-Ntem Province,2801
+Ouham,4118
+Bacolod,173
+Fokis,6018
+Basse-Kotto,1621
+Tsuen Wan District,1598
+North-East Region,598
+Haut-Sassandra,4232
+Lacs,4946
+Bafing,1117
+Moyen-Cavally,2663
+Icel,412
+Baguio,237
+Chitipa District,3531
+Ntchisi District,2178
+Konče Municipality,29485
+Thessaloniki,347
+Guidimaka Region,8836
+Pool Department,465
+Soum,4861
+Socotra Governorate,3992
+Zangilan District,7062
+Zoundweogo,5401
+Municipality of Češinovo-Obleševo,27373
+Wan Chai District,354
+Nanumanga,1852
+Saint Georges,106
+Wadi Fira Region,4462
+Aklan,52
+Lobaye,1831
+Ombella-Mpoko,3583
+Levelwood,69
+Kemo,1165
+Novaci Municipality,27315
+Čaška Municipality,32752
+Mogila Municipality,28667
+Plateaux Department ,343
+Tai Po District,952
+Grand Kru County,947
+Laguna,63
+Karbinci Municipality,26911
+Negros Oriental,564
+Saint Philip Parish,194
+Rankovce Municipality,30464
+Gnagna,4546
+Central Province ,296
+Zrnovci Municipality,29892
+Värmlands Län,1023
+Västerbottens Län,971
+Västernorrlands Län,940
+Västmanlands Län,994
+Kuna de Madugandí,3663
+Port Glaud,156
+Nayala,3587
+Debarca Municipality,25411
+Haut-Mbomou,683
+Municipality of Sopište,34554
+North District,474
+Komondjari,1330
+Kourweogo,3831
+Ragged Island,786
+Yagha,2385
+Municipality of Staro Nagoričane,25819
+Ziro,3385
+Wong Tai Sin District,104
+Koulpelogo,2705
+Loroum,2117
+Biombo Region,428
+Berane Municipality,20027
+Plateaux Department,2725
+Lachin District,486
+Ngäbe-Buglé Comarca,84
+Middle Juba,1479
+Zelenikovo Municipality,29854
+Rakahanga,2339
+Penrhyn,1879
+Monaco City,97
+Kowloon City District,108
+Tacloban,1027
+Kompienga,480
+Arno Atoll,105
+Niutao,1198
+Municipality of Krivogaštani,30937
+Autonomous Republic of Crimea,271
+Sevastopol,61
+Bitola Municipality,187
+Likoma District,8
+Andalucía,256
+Rubirizi District,1433
+Municipality of Studeničani,36304
+Šavnik Municipality,20075
+All (Automated App Ads),16459
+Pegu,66
+Lienchiang,114716
+Windward Islands ,3538
+Dauphin,745
+Mitiaro,504
+Wallis and Futuna,1862
+Tibesti Region,1059
+Govisümber Province,944
+River Gee County,1317
+Mitooma District,192
+Nuristan Province,1052
+Qubadli District,164
+Sar-e Pol Province,67
+Annobón Province,49
+Baie Lazare,31
+Ijuw District,21
+Batken Region,700
+Federal Dependencies of Venezuela,9
+Gbarpolu County,424
+Santa Luzia,2
+French Southern Territories,261
+Moyen-Comoé,3
+Monaco-Ville,2
+Manila,4
+Cavite,1
+Quneitra Governorate,597
+Damascus Governorate,1
+Daraa Governorate,36
+Homs Governorate,2
+Rif Dimashq Governorate,1
+Hermanas Mirabal Province,3
+Aleppo Governorate,65
+Idlib Governorate,94
+Larvotto,1
+Kermanshah Province,7
+Kurdistan Province,9
+West Azerbaijan Province,13
+Lomza,10
+Al-Hasakah Governorate,30
+Montegiardino,7
+Khuzestan Province,2
+Tartus Governorate,2
+Hormozgan Province,1
+Khartoum,56
+Red Sea,48
+Sennar,32
+South Darfur,41
+South Kordofan,33
+River Nile,36
+West Darfur,38
+Al Qadarif,36
+North Kurdufan,37
+White Nile,37
+Al Jazirah,35
+North Darfur,40
+Kassala,38
+Northern state,30
+Blue Nile,33
+Ar-Raqqah Governorate,5
+Latakia Governorate,3
