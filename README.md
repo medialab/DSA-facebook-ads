@@ -62,3 +62,9 @@ python convert_json_to_csv.py ads.json.gz 1000000 > ads_first_1000000_lines.csv
 ```
 
 
+### Filter french lines:
+
+```bash
+xan search -s languages "fr" ads.csv.gz | gzip > ads-fr.csv.gz
+```
+
