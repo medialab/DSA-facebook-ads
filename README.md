@@ -80,17 +80,3 @@ xan search -s age_country_gender_reach_breakdown '"country": "FR"' ads.csv.gz | 
 xan search -s age_country_gender_reach_breakdown '"country": "FR"' ads-fr.csv.gz | gzip > ads-FR-fr.csv.gz
 ```
 
-
-### Filter year 2024:
-
-```bash
-xan search -s ad_delivery_start_time "2024" ads-FR-fr.csv.gz | gzip > ads-FR-fr-2024.csv.gz
-```
-
-# Filter political ads and non political ones:
-
-```bash
-xan search -s bylines -N ads-FR-fr-2024.csv.gz > ads-FR-fr-2024-political.csv.gz
-xan search -s bylines -E ads-FR-fr-2024.csv.gz > ads-FR-fr-2024-nonpolitical.csv.gz
-```
-

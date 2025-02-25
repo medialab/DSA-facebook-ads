@@ -86,9 +86,9 @@ xan freq -s page_name ads-FR-fr-2024.csv.gz -l 50 | xan hist --cols 80
 
 # Split bound bins into min/max
 
-xan select -eA 'max(1, split(spend_bounds, " -")[0]) as spend_min, split(spend_bounds, "- ")[1] as spend_max' ads-FR-fr-2024.csv.gz |
- xan select -eA 'max(1, split(estimated_audience_size_bounds, " -")[0]) as estimated_audience_size_min, split(estimated_audience_size_bounds, "- ")[1] as estimated_audience_size_max' |
- xan select -eA 'max(1, split(impressions_bounds, " -")[0]) as impressions_min, split(impressions_bounds, "- ")[1] as impressions_max' | gzip > ads-FR-fr-2024-splitbounds.csv.gz
+xan select -eA 'max(1, split(spend_bounds, " -")[0] or 0) as spend_min, split(spend_bounds, "- ")[1] as spend_max' ads-FR-fr-2024.csv.gz |
+ xan select -eA 'max(1, split(estimated_audience_size_bounds, " -")[0] or 0) as estimated_audience_size_min, split(estimated_audience_size_bounds, "- ")[1] as estimated_audience_size_max' |
+ xan select -eA 'max(1, split(impressions_bounds, " -")[0] or 0) as impressions_min, split(impressions_bounds, "- ")[1] as impressions_max' | gzip > ads-FR-fr-2024-splitbounds.csv.gz
 
 
 # Filter political ads and non political ones:
